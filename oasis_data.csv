@@ -1,508 +1,1571 @@
-County,Year,Measure,Cause,Value
-Appling,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Atkinson,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Bacon,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Baker,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Baldwin,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Banks,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Barrow,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Bartow,2020,Percent of Deaths by Cause,Drug Overdoses,3.0
-Ben Hill,2020,Percent of Deaths by Cause,Drug Overdoses,1.7
-Berrien,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Bibb,2020,Percent of Deaths by Cause,Drug Overdoses,0.8
-Bleckley,2020,Percent of Deaths by Cause,Drug Overdoses,2.6
-Brantley,2020,Percent of Deaths by Cause,Drug Overdoses,2.0
-Brooks,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Bryan,2020,Percent of Deaths by Cause,Drug Overdoses,2.0
-Bulloch,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Burke,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Butts,2020,Percent of Deaths by Cause,Drug Overdoses,1.8
-Calhoun,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Camden,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-Candler,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Carroll,2020,Percent of Deaths by Cause,Drug Overdoses,2.6
-Catoosa,2020,Percent of Deaths by Cause,Drug Overdoses,2.3
-Charlton,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Chatham,2020,Percent of Deaths by Cause,Drug Overdoses,2.3
-Chattahoochee,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Chattooga,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-Cherokee,2020,Percent of Deaths by Cause,Drug Overdoses,2.8
-Clarke,2020,Percent of Deaths by Cause,Drug Overdoses,1.8
-Clay,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Clayton,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-Clinch,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Cobb,2020,Percent of Deaths by Cause,Drug Overdoses,3.0
-Coffee,2020,Percent of Deaths by Cause,Drug Overdoses,1.1
-Colquitt,2020,Percent of Deaths by Cause,Drug Overdoses,1.4
-Columbia,2020,Percent of Deaths by Cause,Drug Overdoses,2.3
-Cook,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Coweta,2020,Percent of Deaths by Cause,Drug Overdoses,1.5
-Crawford,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Crisp,2020,Percent of Deaths by Cause,Drug Overdoses,1.3
-Dade,2020,Percent of Deaths by Cause,Drug Overdoses,2.5
-Dawson,2020,Percent of Deaths by Cause,Drug Overdoses,2.3
-Decatur,2020,Percent of Deaths by Cause,Drug Overdoses,*
-DeKalb,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Dodge,2020,Percent of Deaths by Cause,Drug Overdoses,2.2
-Dooly,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Dougherty,2020,Percent of Deaths by Cause,Drug Overdoses,1.0
-Douglas,2020,Percent of Deaths by Cause,Drug Overdoses,2.5
-Early,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Unknown Georgia County,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Echols,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Effingham,2020,Percent of Deaths by Cause,Drug Overdoses,1.6
-Elbert,2020,Percent of Deaths by Cause,Drug Overdoses,2.2
-Emanuel,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Evans,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Fannin,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Fayette,2020,Percent of Deaths by Cause,Drug Overdoses,1.1
-Floyd,2020,Percent of Deaths by Cause,Drug Overdoses,1.6
-Forsyth,2020,Percent of Deaths by Cause,Drug Overdoses,1.6
-Franklin,2020,Percent of Deaths by Cause,Drug Overdoses,1.8
-Fulton,2020,Percent of Deaths by Cause,Drug Overdoses,2.5
-Gilmer,2020,Percent of Deaths by Cause,Drug Overdoses,3.1
-Glascock,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Glynn,2020,Percent of Deaths by Cause,Drug Overdoses,2.0
-Gordon,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Grady,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Greene,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Gwinnett,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-Habersham,2020,Percent of Deaths by Cause,Drug Overdoses,2.2
-Hall,2020,Percent of Deaths by Cause,Drug Overdoses,1.6
-Hancock,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Haralson,2020,Percent of Deaths by Cause,Drug Overdoses,3.2
-Harris,2020,Percent of Deaths by Cause,Drug Overdoses,1.7
-Hart,2020,Percent of Deaths by Cause,Drug Overdoses,1.3
-Heard,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Henry,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Houston,2020,Percent of Deaths by Cause,Drug Overdoses,1.3
-Irwin,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Jackson,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Jasper,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Jeff Davis,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Jefferson,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Jenkins,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Johnson,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Jones,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Lamar,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Lanier,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Laurens,2020,Percent of Deaths by Cause,Drug Overdoses,1.1
-Lee,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Liberty,2020,Percent of Deaths by Cause,Drug Overdoses,2.0
-Lincoln,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Long,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Lowndes,2020,Percent of Deaths by Cause,Drug Overdoses,0.5
-Lumpkin,2020,Percent of Deaths by Cause,Drug Overdoses,2.6
-McDuffie,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-McIntosh,2020,Percent of Deaths by Cause,Drug Overdoses,2.8
-Macon,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Madison,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-Marion,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Meriwether,2020,Percent of Deaths by Cause,Drug Overdoses,1.4
-Miller,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Mitchell,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Monroe,2020,Percent of Deaths by Cause,Drug Overdoses,1.3
-Montgomery,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Morgan,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Murray,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Muscogee,2020,Percent of Deaths by Cause,Drug Overdoses,1.4
-Newton,2020,Percent of Deaths by Cause,Drug Overdoses,1.6
-Oconee,2020,Percent of Deaths by Cause,Drug Overdoses,1.7
-Oglethorpe,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Paulding,2020,Percent of Deaths by Cause,Drug Overdoses,3.4
-Peach,2020,Percent of Deaths by Cause,Drug Overdoses,2.2
-Pickens,2020,Percent of Deaths by Cause,Drug Overdoses,1.7
-Pierce,2020,Percent of Deaths by Cause,Drug Overdoses,2.0
-Pike,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Polk,2020,Percent of Deaths by Cause,Drug Overdoses,2.3
-Pulaski,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Putnam,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Quitman,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Rabun,2020,Percent of Deaths by Cause,Drug Overdoses,1.7
-Randolph,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Richmond,2020,Percent of Deaths by Cause,Drug Overdoses,2.8
-Rockdale,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Schley,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Screven,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Seminole,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Spalding,2020,Percent of Deaths by Cause,Drug Overdoses,1.4
-Stephens,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Stewart,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Sumter,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Talbot,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Taliaferro,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Tattnall,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Taylor,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Telfair,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Terrell,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Thomas,2020,Percent of Deaths by Cause,Drug Overdoses,0.8
-Tift,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Toombs,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Towns,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Treutlen,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Troup,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Turner,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Twiggs,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Union,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-Upson,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Walker,2020,Percent of Deaths by Cause,Drug Overdoses,2.4
-Walton,2020,Percent of Deaths by Cause,Drug Overdoses,2.6
-Ware,2020,Percent of Deaths by Cause,Drug Overdoses,1.8
-Warren,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Washington,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Wayne,2020,Percent of Deaths by Cause,Drug Overdoses,2.0
-Webster,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Wheeler,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-White,2020,Percent of Deaths by Cause,Drug Overdoses,2.3
-Whitfield,2020,Percent of Deaths by Cause,Drug Overdoses,1.6
-Wilcox,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Wilkes,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Wilkinson,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Worth,2020,Percent of Deaths by Cause,Drug Overdoses,*
-,2020,Percent of Deaths by Cause,Drug Overdoses,
-Rates based on 1-4 events are not shown and indicated by an *.,2020,Percent of Deaths by Cause,Drug Overdoses,
-,2020,Percent of Deaths by Cause,Drug Overdoses,
-,2020,Percent of Deaths by Cause,Drug Overdoses,
-,2020,Percent of Deaths by Cause,Drug Overdoses,Created: 11/12/2023 3:15:05 PM with OASIS Mapping Tool (https://oasis.state.ga.us/)
-,2020,Percent of Deaths by Cause,Drug Overdoses,Copyright © 2003 - 2023 App Version 1.12 Content Version: 1.28.
-,2020,Percent of Deaths by Cause,Drug Overdoses,"Georgia Department of Public Health (https://dph.georgia.gov/),"
-,2020,Percent of Deaths by Cause,Drug Overdoses,"Office of Health Indicators for Planning (OHIP) (https://dph.georgia.gov/office-health-indicators-planning-ohip), "
-,2020,Percent of Deaths by Cause,Drug Overdoses,all rights reserved. Contact us: ohip@dph.ga.gov.
-Appling,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Atkinson,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Bacon,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Baker,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Baldwin,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Banks,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Barrow,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Bartow,2020,Percent of Deaths by Cause,Drug Overdoses,3.0
-Ben Hill,2020,Percent of Deaths by Cause,Drug Overdoses,1.7
-Berrien,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Bibb,2020,Percent of Deaths by Cause,Drug Overdoses,0.8
-Bleckley,2020,Percent of Deaths by Cause,Drug Overdoses,2.6
-Brantley,2020,Percent of Deaths by Cause,Drug Overdoses,2.0
-Brooks,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Bryan,2020,Percent of Deaths by Cause,Drug Overdoses,2.0
-Bulloch,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Burke,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Butts,2020,Percent of Deaths by Cause,Drug Overdoses,1.8
-Calhoun,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Camden,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-Candler,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Carroll,2020,Percent of Deaths by Cause,Drug Overdoses,2.6
-Catoosa,2020,Percent of Deaths by Cause,Drug Overdoses,2.3
-Charlton,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Chatham,2020,Percent of Deaths by Cause,Drug Overdoses,2.3
-Chattahoochee,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Chattooga,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-Cherokee,2020,Percent of Deaths by Cause,Drug Overdoses,2.8
-Clarke,2020,Percent of Deaths by Cause,Drug Overdoses,1.8
-Clay,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Clayton,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-Clinch,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Cobb,2020,Percent of Deaths by Cause,Drug Overdoses,3.0
-Coffee,2020,Percent of Deaths by Cause,Drug Overdoses,1.1
-Colquitt,2020,Percent of Deaths by Cause,Drug Overdoses,1.4
-Columbia,2020,Percent of Deaths by Cause,Drug Overdoses,2.3
-Cook,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Coweta,2020,Percent of Deaths by Cause,Drug Overdoses,1.5
-Crawford,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Crisp,2020,Percent of Deaths by Cause,Drug Overdoses,1.3
-Dade,2020,Percent of Deaths by Cause,Drug Overdoses,2.5
-Dawson,2020,Percent of Deaths by Cause,Drug Overdoses,2.3
-Decatur,2020,Percent of Deaths by Cause,Drug Overdoses,*
-DeKalb,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Dodge,2020,Percent of Deaths by Cause,Drug Overdoses,2.2
-Dooly,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Dougherty,2020,Percent of Deaths by Cause,Drug Overdoses,1.0
-Douglas,2020,Percent of Deaths by Cause,Drug Overdoses,2.5
-Early,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Unknown Georgia County,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Echols,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Effingham,2020,Percent of Deaths by Cause,Drug Overdoses,1.6
-Elbert,2020,Percent of Deaths by Cause,Drug Overdoses,2.2
-Emanuel,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Evans,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Fannin,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Fayette,2020,Percent of Deaths by Cause,Drug Overdoses,1.1
-Floyd,2020,Percent of Deaths by Cause,Drug Overdoses,1.6
-Forsyth,2020,Percent of Deaths by Cause,Drug Overdoses,1.6
-Franklin,2020,Percent of Deaths by Cause,Drug Overdoses,1.8
-Fulton,2020,Percent of Deaths by Cause,Drug Overdoses,2.5
-Gilmer,2020,Percent of Deaths by Cause,Drug Overdoses,3.1
-Glascock,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Glynn,2020,Percent of Deaths by Cause,Drug Overdoses,2.0
-Gordon,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Grady,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Greene,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Gwinnett,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-Habersham,2020,Percent of Deaths by Cause,Drug Overdoses,2.2
-Hall,2020,Percent of Deaths by Cause,Drug Overdoses,1.6
-Hancock,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Haralson,2020,Percent of Deaths by Cause,Drug Overdoses,3.2
-Harris,2020,Percent of Deaths by Cause,Drug Overdoses,1.7
-Hart,2020,Percent of Deaths by Cause,Drug Overdoses,1.3
-Heard,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Henry,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Houston,2020,Percent of Deaths by Cause,Drug Overdoses,1.3
-Irwin,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Jackson,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Jasper,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Jeff Davis,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Jefferson,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Jenkins,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Johnson,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Jones,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Lamar,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Lanier,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Laurens,2020,Percent of Deaths by Cause,Drug Overdoses,1.1
-Lee,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Liberty,2020,Percent of Deaths by Cause,Drug Overdoses,2.0
-Lincoln,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Long,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Lowndes,2020,Percent of Deaths by Cause,Drug Overdoses,0.5
-Lumpkin,2020,Percent of Deaths by Cause,Drug Overdoses,2.6
-McDuffie,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-McIntosh,2020,Percent of Deaths by Cause,Drug Overdoses,2.8
-Macon,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Madison,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-Marion,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Meriwether,2020,Percent of Deaths by Cause,Drug Overdoses,1.4
-Miller,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Mitchell,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Monroe,2020,Percent of Deaths by Cause,Drug Overdoses,1.3
-Montgomery,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Morgan,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Murray,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Muscogee,2020,Percent of Deaths by Cause,Drug Overdoses,1.4
-Newton,2020,Percent of Deaths by Cause,Drug Overdoses,1.6
-Oconee,2020,Percent of Deaths by Cause,Drug Overdoses,1.7
-Oglethorpe,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Paulding,2020,Percent of Deaths by Cause,Drug Overdoses,3.4
-Peach,2020,Percent of Deaths by Cause,Drug Overdoses,2.2
-Pickens,2020,Percent of Deaths by Cause,Drug Overdoses,1.7
-Pierce,2020,Percent of Deaths by Cause,Drug Overdoses,2.0
-Pike,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Polk,2020,Percent of Deaths by Cause,Drug Overdoses,2.3
-Pulaski,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Putnam,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Quitman,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Rabun,2020,Percent of Deaths by Cause,Drug Overdoses,1.7
-Randolph,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Richmond,2020,Percent of Deaths by Cause,Drug Overdoses,2.8
-Rockdale,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Schley,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Screven,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Seminole,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Spalding,2020,Percent of Deaths by Cause,Drug Overdoses,1.4
-Stephens,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Stewart,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Sumter,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Talbot,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Taliaferro,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Tattnall,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Taylor,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Telfair,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Terrell,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Thomas,2020,Percent of Deaths by Cause,Drug Overdoses,0.8
-Tift,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Toombs,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Towns,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Treutlen,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Troup,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Turner,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Twiggs,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Union,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-Upson,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Walker,2020,Percent of Deaths by Cause,Drug Overdoses,2.4
-Walton,2020,Percent of Deaths by Cause,Drug Overdoses,2.6
-Ware,2020,Percent of Deaths by Cause,Drug Overdoses,1.8
-Warren,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Washington,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Wayne,2020,Percent of Deaths by Cause,Drug Overdoses,2.0
-Webster,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Wheeler,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-White,2020,Percent of Deaths by Cause,Drug Overdoses,2.3
-Whitfield,2020,Percent of Deaths by Cause,Drug Overdoses,1.6
-Wilcox,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Wilkes,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Wilkinson,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Worth,2020,Percent of Deaths by Cause,Drug Overdoses,*
-,2020,Percent of Deaths by Cause,Drug Overdoses,
-Rates based on 1-4 events are not shown and indicated by an *.,2020,Percent of Deaths by Cause,Drug Overdoses,
-,2020,Percent of Deaths by Cause,Drug Overdoses,
-,2020,Percent of Deaths by Cause,Drug Overdoses,
-,2020,Percent of Deaths by Cause,Drug Overdoses,Created: 11/12/2023 3:15:05 PM with OASIS Mapping Tool (https://oasis.state.ga.us/)
-,2020,Percent of Deaths by Cause,Drug Overdoses,Copyright © 2003 - 2023 App Version 1.12 Content Version: 1.28.
-,2020,Percent of Deaths by Cause,Drug Overdoses,"Georgia Department of Public Health (https://dph.georgia.gov/),"
-,2020,Percent of Deaths by Cause,Drug Overdoses,"Office of Health Indicators for Planning (OHIP) (https://dph.georgia.gov/office-health-indicators-planning-ohip), "
-,2020,Percent of Deaths by Cause,Drug Overdoses,all rights reserved. Contact us: ohip@dph.ga.gov.
-Appling,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Atkinson,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Bacon,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Baker,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Baldwin,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Banks,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Barrow,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Bartow,2020,Percent of Deaths by Cause,Drug Overdoses,3.0
-Ben Hill,2020,Percent of Deaths by Cause,Drug Overdoses,1.7
-Berrien,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Bibb,2020,Percent of Deaths by Cause,Drug Overdoses,0.8
-Bleckley,2020,Percent of Deaths by Cause,Drug Overdoses,2.6
-Brantley,2020,Percent of Deaths by Cause,Drug Overdoses,2.0
-Brooks,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Bryan,2020,Percent of Deaths by Cause,Drug Overdoses,2.0
-Bulloch,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Burke,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Butts,2020,Percent of Deaths by Cause,Drug Overdoses,1.8
-Calhoun,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Camden,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-Candler,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Carroll,2020,Percent of Deaths by Cause,Drug Overdoses,2.6
-Catoosa,2020,Percent of Deaths by Cause,Drug Overdoses,2.3
-Charlton,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Chatham,2020,Percent of Deaths by Cause,Drug Overdoses,2.3
-Chattahoochee,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Chattooga,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-Cherokee,2020,Percent of Deaths by Cause,Drug Overdoses,2.8
-Clarke,2020,Percent of Deaths by Cause,Drug Overdoses,1.8
-Clay,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Clayton,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-Clinch,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Cobb,2020,Percent of Deaths by Cause,Drug Overdoses,3.0
-Coffee,2020,Percent of Deaths by Cause,Drug Overdoses,1.1
-Colquitt,2020,Percent of Deaths by Cause,Drug Overdoses,1.4
-Columbia,2020,Percent of Deaths by Cause,Drug Overdoses,2.3
-Cook,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Coweta,2020,Percent of Deaths by Cause,Drug Overdoses,1.5
-Crawford,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Crisp,2020,Percent of Deaths by Cause,Drug Overdoses,1.3
-Dade,2020,Percent of Deaths by Cause,Drug Overdoses,2.5
-Dawson,2020,Percent of Deaths by Cause,Drug Overdoses,2.3
-Decatur,2020,Percent of Deaths by Cause,Drug Overdoses,*
-DeKalb,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Dodge,2020,Percent of Deaths by Cause,Drug Overdoses,2.2
-Dooly,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Dougherty,2020,Percent of Deaths by Cause,Drug Overdoses,1.0
-Douglas,2020,Percent of Deaths by Cause,Drug Overdoses,2.5
-Early,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Unknown Georgia County,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Echols,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Effingham,2020,Percent of Deaths by Cause,Drug Overdoses,1.6
-Elbert,2020,Percent of Deaths by Cause,Drug Overdoses,2.2
-Emanuel,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Evans,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Fannin,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Fayette,2020,Percent of Deaths by Cause,Drug Overdoses,1.1
-Floyd,2020,Percent of Deaths by Cause,Drug Overdoses,1.6
-Forsyth,2020,Percent of Deaths by Cause,Drug Overdoses,1.6
-Franklin,2020,Percent of Deaths by Cause,Drug Overdoses,1.8
-Fulton,2020,Percent of Deaths by Cause,Drug Overdoses,2.5
-Gilmer,2020,Percent of Deaths by Cause,Drug Overdoses,3.1
-Glascock,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Glynn,2020,Percent of Deaths by Cause,Drug Overdoses,2.0
-Gordon,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Grady,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Greene,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Gwinnett,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-Habersham,2020,Percent of Deaths by Cause,Drug Overdoses,2.2
-Hall,2020,Percent of Deaths by Cause,Drug Overdoses,1.6
-Hancock,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Haralson,2020,Percent of Deaths by Cause,Drug Overdoses,3.2
-Harris,2020,Percent of Deaths by Cause,Drug Overdoses,1.7
-Hart,2020,Percent of Deaths by Cause,Drug Overdoses,1.3
-Heard,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Henry,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Houston,2020,Percent of Deaths by Cause,Drug Overdoses,1.3
-Irwin,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Jackson,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Jasper,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Jeff Davis,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Jefferson,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Jenkins,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Johnson,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Jones,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Lamar,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Lanier,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Laurens,2020,Percent of Deaths by Cause,Drug Overdoses,1.1
-Lee,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Liberty,2020,Percent of Deaths by Cause,Drug Overdoses,2.0
-Lincoln,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Long,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Lowndes,2020,Percent of Deaths by Cause,Drug Overdoses,0.5
-Lumpkin,2020,Percent of Deaths by Cause,Drug Overdoses,2.6
-McDuffie,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-McIntosh,2020,Percent of Deaths by Cause,Drug Overdoses,2.8
-Macon,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Madison,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-Marion,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Meriwether,2020,Percent of Deaths by Cause,Drug Overdoses,1.4
-Miller,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Mitchell,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Monroe,2020,Percent of Deaths by Cause,Drug Overdoses,1.3
-Montgomery,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Morgan,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Murray,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Muscogee,2020,Percent of Deaths by Cause,Drug Overdoses,1.4
-Newton,2020,Percent of Deaths by Cause,Drug Overdoses,1.6
-Oconee,2020,Percent of Deaths by Cause,Drug Overdoses,1.7
-Oglethorpe,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Paulding,2020,Percent of Deaths by Cause,Drug Overdoses,3.4
-Peach,2020,Percent of Deaths by Cause,Drug Overdoses,2.2
-Pickens,2020,Percent of Deaths by Cause,Drug Overdoses,1.7
-Pierce,2020,Percent of Deaths by Cause,Drug Overdoses,2.0
-Pike,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Polk,2020,Percent of Deaths by Cause,Drug Overdoses,2.3
-Pulaski,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Putnam,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Quitman,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Rabun,2020,Percent of Deaths by Cause,Drug Overdoses,1.7
-Randolph,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Richmond,2020,Percent of Deaths by Cause,Drug Overdoses,2.8
-Rockdale,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Schley,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Screven,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Seminole,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Spalding,2020,Percent of Deaths by Cause,Drug Overdoses,1.4
-Stephens,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Stewart,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Sumter,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Talbot,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Taliaferro,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Tattnall,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Taylor,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Telfair,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Terrell,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Thomas,2020,Percent of Deaths by Cause,Drug Overdoses,0.8
-Tift,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Toombs,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Towns,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Treutlen,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Troup,2020,Percent of Deaths by Cause,Drug Overdoses,1.9
-Turner,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Twiggs,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Union,2020,Percent of Deaths by Cause,Drug Overdoses,2.1
-Upson,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Walker,2020,Percent of Deaths by Cause,Drug Overdoses,2.4
-Walton,2020,Percent of Deaths by Cause,Drug Overdoses,2.6
-Ware,2020,Percent of Deaths by Cause,Drug Overdoses,1.8
-Warren,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Washington,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Wayne,2020,Percent of Deaths by Cause,Drug Overdoses,2.0
-Webster,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Wheeler,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-White,2020,Percent of Deaths by Cause,Drug Overdoses,2.3
-Whitfield,2020,Percent of Deaths by Cause,Drug Overdoses,1.6
-Wilcox,2020,Percent of Deaths by Cause,Drug Overdoses,0.0
-Wilkes,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Wilkinson,2020,Percent of Deaths by Cause,Drug Overdoses,*
-Worth,2020,Percent of Deaths by Cause,Drug Overdoses,*
-,2020,Percent of Deaths by Cause,Drug Overdoses,
-Rates based on 1-4 events are not shown and indicated by an *.,2020,Percent of Deaths by Cause,Drug Overdoses,
-,2020,Percent of Deaths by Cause,Drug Overdoses,
-,2020,Percent of Deaths by Cause,Drug Overdoses,
-,2020,Percent of Deaths by Cause,Drug Overdoses,Created: 11/12/2023 3:15:05 PM with OASIS Mapping Tool (https://oasis.state.ga.us/)
-,2020,Percent of Deaths by Cause,Drug Overdoses,Copyright © 2003 - 2023 App Version 1.12 Content Version: 1.28.
-,2020,Percent of Deaths by Cause,Drug Overdoses,"Georgia Department of Public Health (https://dph.georgia.gov/),"
-,2020,Percent of Deaths by Cause,Drug Overdoses,"Office of Health Indicators for Planning (OHIP) (https://dph.georgia.gov/office-health-indicators-planning-ohip), "
-,2020,Percent of Deaths by Cause,Drug Overdoses,all rights reserved. Contact us: ohip@dph.ga.gov.
+County,Year,Variable,Value
+Appling,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Atkinson,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Bacon,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Baker,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Baldwin,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Banks,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Barrow,2016,Percent of Deaths by Cause-Drug Overdoses,2.3
+Bartow,2016,Percent of Deaths by Cause-Drug Overdoses,2.3
+Berrien,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Bibb,2016,Percent of Deaths by Cause-Drug Overdoses,0.9
+Bleckley,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Brantley,2016,Percent of Deaths by Cause-Drug Overdoses,3.0
+Brooks,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Bryan,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Bulloch,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Burke,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Butts,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Calhoun,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Camden,2016,Percent of Deaths by Cause-Drug Overdoses,1.9
+Candler,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Carroll,2016,Percent of Deaths by Cause-Drug Overdoses,2.6
+Catoosa,2016,Percent of Deaths by Cause-Drug Overdoses,3.3
+Charlton,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Chatham,2016,Percent of Deaths by Cause-Drug Overdoses,1.4
+Chattahoochee,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Chattooga,2016,Percent of Deaths by Cause-Drug Overdoses,2.2
+Cherokee,2016,Percent of Deaths by Cause-Drug Overdoses,3.2
+Clarke,2016,Percent of Deaths by Cause-Drug Overdoses,2.3
+Clay,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Clayton,2016,Percent of Deaths by Cause-Drug Overdoses,1.4
+Clinch,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Cobb,2016,Percent of Deaths by Cause-Drug Overdoses,2.9
+Coffee,2016,Percent of Deaths by Cause-Drug Overdoses,1.6
+Colquitt,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Columbia,2016,Percent of Deaths by Cause-Drug Overdoses,2.1
+Cook,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Coweta,2016,Percent of Deaths by Cause-Drug Overdoses,1.6
+Crawford,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Crisp,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Dade,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Dawson,2016,Percent of Deaths by Cause-Drug Overdoses,2.5
+Decatur,2016,Percent of Deaths by Cause-Drug Overdoses,*
+DeKalb,2016,Percent of Deaths by Cause-Drug Overdoses,1.6
+Dodge,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Dooly,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Dougherty,2016,Percent of Deaths by Cause-Drug Overdoses,1.0
+Douglas,2016,Percent of Deaths by Cause-Drug Overdoses,3.3
+Early,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Echols,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Effingham,2016,Percent of Deaths by Cause-Drug Overdoses,1.1
+Elbert,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Emanuel,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Evans,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Fannin,2016,Percent of Deaths by Cause-Drug Overdoses,2.0
+Fayette,2016,Percent of Deaths by Cause-Drug Overdoses,0.8
+Floyd,2016,Percent of Deaths by Cause-Drug Overdoses,1.5
+Forsyth,2016,Percent of Deaths by Cause-Drug Overdoses,1.9
+Franklin,2016,Percent of Deaths by Cause-Drug Overdoses,1.7
+Fulton,2016,Percent of Deaths by Cause-Drug Overdoses,2.6
+Gilmer,2016,Percent of Deaths by Cause-Drug Overdoses,1.5
+Glascock,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Glynn,2016,Percent of Deaths by Cause-Drug Overdoses,1.4
+Gordon,2016,Percent of Deaths by Cause-Drug Overdoses,1.9
+Grady,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Greene,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Gwinnett,2016,Percent of Deaths by Cause-Drug Overdoses,1.9
+Habersham,2016,Percent of Deaths by Cause-Drug Overdoses,1.7
+Hall,2016,Percent of Deaths by Cause-Drug Overdoses,2.0
+Hancock,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Haralson,2016,Percent of Deaths by Cause-Drug Overdoses,2.3
+Harris,2016,Percent of Deaths by Cause-Drug Overdoses,3.3
+Hart,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Heard,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Henry,2016,Percent of Deaths by Cause-Drug Overdoses,2.6
+Houston,2016,Percent of Deaths by Cause-Drug Overdoses,1.2
+Irwin,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Jackson,2016,Percent of Deaths by Cause-Drug Overdoses,1.8
+Jasper,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Jefferson,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Jenkins,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Johnson,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Jones,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Lamar,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Lanier,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Laurens,2016,Percent of Deaths by Cause-Drug Overdoses,1.1
+Lee,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Liberty,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Lincoln,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Long,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Lowndes,2016,Percent of Deaths by Cause-Drug Overdoses,1.2
+Lumpkin,2016,Percent of Deaths by Cause-Drug Overdoses,3.0
+McDuffie,2016,Percent of Deaths by Cause-Drug Overdoses,*
+McIntosh,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Macon,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Madison,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Marion,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Meriwether,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Miller,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Mitchell,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Monroe,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Montgomery,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Morgan,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Murray,2016,Percent of Deaths by Cause-Drug Overdoses,1.2
+Muscogee,2016,Percent of Deaths by Cause-Drug Overdoses,0.8
+Newton,2016,Percent of Deaths by Cause-Drug Overdoses,1.7
+Oconee,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Oglethorpe,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Paulding,2016,Percent of Deaths by Cause-Drug Overdoses,3.3
+Peach,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Pickens,2016,Percent of Deaths by Cause-Drug Overdoses,1.4
+Pierce,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Pike,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Polk,2016,Percent of Deaths by Cause-Drug Overdoses,1.6
+Pulaski,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Putnam,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Quitman,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Rabun,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Randolph,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Richmond,2016,Percent of Deaths by Cause-Drug Overdoses,2.4
+Rockdale,2016,Percent of Deaths by Cause-Drug Overdoses,2.3
+Schley,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Screven,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Seminole,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Spalding,2016,Percent of Deaths by Cause-Drug Overdoses,1.3
+Stephens,2016,Percent of Deaths by Cause-Drug Overdoses,1.4
+Stewart,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Sumter,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Talbot,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Taliaferro,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Tattnall,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Taylor,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Telfair,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Terrell,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Thomas,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Tift,2016,Percent of Deaths by Cause-Drug Overdoses,1.5
+Toombs,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Towns,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Treutlen,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Troup,2016,Percent of Deaths by Cause-Drug Overdoses,1.4
+Turner,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Twiggs,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Union,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Upson,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Walker,2016,Percent of Deaths by Cause-Drug Overdoses,1.2
+Walton,2016,Percent of Deaths by Cause-Drug Overdoses,1.9
+Ware,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Warren,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Washington,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Wayne,2016,Percent of Deaths by Cause-Drug Overdoses,2.0
+Webster,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Wheeler,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+White,2016,Percent of Deaths by Cause-Drug Overdoses,1.9
+Whitfield,2016,Percent of Deaths by Cause-Drug Overdoses,1.0
+Wilcox,2016,Percent of Deaths by Cause-Drug Overdoses,*
+Wilkes,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Wilkinson,2016,Percent of Deaths by Cause-Drug Overdoses,0.0
+Worth,2016,Percent of Deaths by Cause-Drug Overdoses,2.5
+Appling,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Atkinson,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Bacon,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Baker,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Baldwin,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Banks,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Barrow,2020,Age-Adjusted Death Rate-Drug Overdoses,17.1
+Bartow,2020,Age-Adjusted Death Rate-Drug Overdoses,31.3
+Berrien,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Bibb,2020,Age-Adjusted Death Rate-Drug Overdoses,12.6
+Bleckley,2020,Age-Adjusted Death Rate-Drug Overdoses,43.4
+Brantley,2020,Age-Adjusted Death Rate-Drug Overdoses,29.9
+Brooks,2020,Age-Adjusted Death Rate-Drug Overdoses,0.0
+Bryan,2020,Age-Adjusted Death Rate-Drug Overdoses,17.0
+Bulloch,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Burke,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Butts,2020,Age-Adjusted Death Rate-Drug Overdoses,21.9
+Calhoun,2020,Age-Adjusted Death Rate-Drug Overdoses,0.0
+Camden,2020,Age-Adjusted Death Rate-Drug Overdoses,17.2
+Candler,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Carroll,2020,Age-Adjusted Death Rate-Drug Overdoses,29.9
+Catoosa,2020,Age-Adjusted Death Rate-Drug Overdoses,30.0
+Charlton,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Chatham,2020,Age-Adjusted Death Rate-Drug Overdoses,22.8
+Chattahoochee,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Chattooga,2020,Age-Adjusted Death Rate-Drug Overdoses,37.9
+Cherokee,2020,Age-Adjusted Death Rate-Drug Overdoses,20.7
+Clarke,2020,Age-Adjusted Death Rate-Drug Overdoses,14.1
+Clay,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Clayton,2020,Age-Adjusted Death Rate-Drug Overdoses,17.0
+Clinch,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Cobb,2020,Age-Adjusted Death Rate-Drug Overdoses,20.0
+Coffee,2020,Age-Adjusted Death Rate-Drug Overdoses,13.7
+Colquitt,2020,Age-Adjusted Death Rate-Drug Overdoses,20.2
+Columbia,2020,Age-Adjusted Death Rate-Drug Overdoses,18.4
+Cook,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Coweta,2020,Age-Adjusted Death Rate-Drug Overdoses,13.7
+Crawford,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Crisp,2020,Age-Adjusted Death Rate-Drug Overdoses,24.0
+Dade,2020,Age-Adjusted Death Rate-Drug Overdoses,45.4
+Dawson,2020,Age-Adjusted Death Rate-Drug Overdoses,21.6
+Decatur,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+DeKalb,2020,Age-Adjusted Death Rate-Drug Overdoses,14.0
+Dodge,2020,Age-Adjusted Death Rate-Drug Overdoses,39.0
+Dooly,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Dougherty,2020,Age-Adjusted Death Rate-Drug Overdoses,16.4
+Douglas,2020,Age-Adjusted Death Rate-Drug Overdoses,20.1
+Early,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Echols,2020,Age-Adjusted Death Rate-Drug Overdoses,0.0
+Effingham,2020,Age-Adjusted Death Rate-Drug Overdoses,14.3
+Elbert,2020,Age-Adjusted Death Rate-Drug Overdoses,48.7
+Emanuel,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Evans,2020,Age-Adjusted Death Rate-Drug Overdoses,0.0
+Fannin,2020,Age-Adjusted Death Rate-Drug Overdoses,32.5
+Fayette,2020,Age-Adjusted Death Rate-Drug Overdoses,11.3
+Floyd,2020,Age-Adjusted Death Rate-Drug Overdoses,20.6
+Forsyth,2020,Age-Adjusted Death Rate-Drug Overdoses,9.2
+Franklin,2020,Age-Adjusted Death Rate-Drug Overdoses,28.4
+Fulton,2020,Age-Adjusted Death Rate-Drug Overdoses,17.0
+Gilmer,2020,Age-Adjusted Death Rate-Drug Overdoses,53.9
+Glascock,2020,Age-Adjusted Death Rate-Drug Overdoses,0.0
+Glynn,2020,Age-Adjusted Death Rate-Drug Overdoses,28.1
+Gordon,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Grady,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Greene,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Gwinnett,2020,Age-Adjusted Death Rate-Drug Overdoses,12.5
+Habersham,2020,Age-Adjusted Death Rate-Drug Overdoses,33.8
+Hall,2020,Age-Adjusted Death Rate-Drug Overdoses,16.9
+Hancock,2020,Age-Adjusted Death Rate-Drug Overdoses,0.0
+Haralson,2020,Age-Adjusted Death Rate-Drug Overdoses,48.6
+Harris,2020,Age-Adjusted Death Rate-Drug Overdoses,18.4
+Hart,2020,Age-Adjusted Death Rate-Drug Overdoses,20.3
+Heard,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Henry,2020,Age-Adjusted Death Rate-Drug Overdoses,14.7
+Houston,2020,Age-Adjusted Death Rate-Drug Overdoses,12.7
+Irwin,2020,Age-Adjusted Death Rate-Drug Overdoses,0.0
+Jackson,2020,Age-Adjusted Death Rate-Drug Overdoses,20.6
+Jasper,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Jefferson,2020,Age-Adjusted Death Rate-Drug Overdoses,0.0
+Jenkins,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Johnson,2020,Age-Adjusted Death Rate-Drug Overdoses,0.0
+Jones,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Lamar,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Lanier,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Laurens,2020,Age-Adjusted Death Rate-Drug Overdoses,17.5
+Lee,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Liberty,2020,Age-Adjusted Death Rate-Drug Overdoses,16.1
+Lincoln,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Long,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Lowndes,2020,Age-Adjusted Death Rate-Drug Overdoses,6.0
+Lumpkin,2020,Age-Adjusted Death Rate-Drug Overdoses,32.0
+McDuffie,2020,Age-Adjusted Death Rate-Drug Overdoses,31.5
+McIntosh,2020,Age-Adjusted Death Rate-Drug Overdoses,39.4
+Macon,2020,Age-Adjusted Death Rate-Drug Overdoses,0.0
+Madison,2020,Age-Adjusted Death Rate-Drug Overdoses,24.4
+Marion,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Meriwether,2020,Age-Adjusted Death Rate-Drug Overdoses,18.8
+Miller,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Mitchell,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Monroe,2020,Age-Adjusted Death Rate-Drug Overdoses,16.7
+Montgomery,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Morgan,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Murray,2020,Age-Adjusted Death Rate-Drug Overdoses,27.0
+Muscogee,2020,Age-Adjusted Death Rate-Drug Overdoses,17.4
+Newton,2020,Age-Adjusted Death Rate-Drug Overdoses,17.0
+Oconee,2020,Age-Adjusted Death Rate-Drug Overdoses,14.8
+Oglethorpe,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Paulding,2020,Age-Adjusted Death Rate-Drug Overdoses,25.3
+Peach,2020,Age-Adjusted Death Rate-Drug Overdoses,27.2
+Pickens,2020,Age-Adjusted Death Rate-Drug Overdoses,25.8
+Pierce,2020,Age-Adjusted Death Rate-Drug Overdoses,37.0
+Pike,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Polk,2020,Age-Adjusted Death Rate-Drug Overdoses,32.0
+Pulaski,2020,Age-Adjusted Death Rate-Drug Overdoses,0.0
+Putnam,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Quitman,2020,Age-Adjusted Death Rate-Drug Overdoses,0.0
+Rabun,2020,Age-Adjusted Death Rate-Drug Overdoses,27.2
+Randolph,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Richmond,2020,Age-Adjusted Death Rate-Drug Overdoses,35.3
+Rockdale,2020,Age-Adjusted Death Rate-Drug Overdoses,19.9
+Schley,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Screven,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Seminole,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Spalding,2020,Age-Adjusted Death Rate-Drug Overdoses,23.7
+Stephens,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Stewart,2020,Age-Adjusted Death Rate-Drug Overdoses,0.0
+Sumter,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Talbot,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Taliaferro,2020,Age-Adjusted Death Rate-Drug Overdoses,0.0
+Tattnall,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Taylor,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Telfair,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Terrell,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Thomas,2020,Age-Adjusted Death Rate-Drug Overdoses,12.7
+Tift,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Toombs,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Towns,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Treutlen,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Troup,2020,Age-Adjusted Death Rate-Drug Overdoses,24.7
+Turner,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Twiggs,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Union,2020,Age-Adjusted Death Rate-Drug Overdoses,55.1
+Upson,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Walker,2020,Age-Adjusted Death Rate-Drug Overdoses,35.7
+Walton,2020,Age-Adjusted Death Rate-Drug Overdoses,27.3
+Ware,2020,Age-Adjusted Death Rate-Drug Overdoses,34.1
+Warren,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Washington,2020,Age-Adjusted Death Rate-Drug Overdoses,0.0
+Wayne,2020,Age-Adjusted Death Rate-Drug Overdoses,28.3
+Webster,2020,Age-Adjusted Death Rate-Drug Overdoses,0.0
+Wheeler,2020,Age-Adjusted Death Rate-Drug Overdoses,0.0
+White,2020,Age-Adjusted Death Rate-Drug Overdoses,30.1
+Whitfield,2020,Age-Adjusted Death Rate-Drug Overdoses,17.1
+Wilcox,2020,Age-Adjusted Death Rate-Drug Overdoses,0.0
+Wilkes,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Wilkinson,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Worth,2020,Age-Adjusted Death Rate-Drug Overdoses,*
+Appling,2020,Percent of Deaths by Cause-All Opioids,*
+Atkinson,2020,Percent of Deaths by Cause-All Opioids,*
+Bacon,2020,Percent of Deaths by Cause-All Opioids,0.0
+Baker,2020,Percent of Deaths by Cause-All Opioids,0.0
+Baldwin,2020,Percent of Deaths by Cause-All Opioids,*
+Banks,2020,Percent of Deaths by Cause-All Opioids,*
+Barrow,2020,Percent of Deaths by Cause-All Opioids,1.5
+Bartow,2020,Percent of Deaths by Cause-All Opioids,2.0
+Berrien,2020,Percent of Deaths by Cause-All Opioids,*
+Bibb,2020,Percent of Deaths by Cause-All Opioids,0.5
+Bleckley,2020,Percent of Deaths by Cause-All Opioids,*
+Brantley,2020,Percent of Deaths by Cause-All Opioids,*
+Brooks,2020,Percent of Deaths by Cause-All Opioids,0.0
+Bryan,2020,Percent of Deaths by Cause-All Opioids,1.7
+Bulloch,2020,Percent of Deaths by Cause-All Opioids,*
+Burke,2020,Percent of Deaths by Cause-All Opioids,*
+Butts,2020,Percent of Deaths by Cause-All Opioids,1.5
+Calhoun,2020,Percent of Deaths by Cause-All Opioids,0.0
+Camden,2020,Percent of Deaths by Cause-All Opioids,1.8
+Candler,2020,Percent of Deaths by Cause-All Opioids,*
+Carroll,2020,Percent of Deaths by Cause-All Opioids,2.0
+Catoosa,2020,Percent of Deaths by Cause-All Opioids,1.5
+Charlton,2020,Percent of Deaths by Cause-All Opioids,*
+Chatham,2020,Percent of Deaths by Cause-All Opioids,1.6
+Chattahoochee,2020,Percent of Deaths by Cause-All Opioids,*
+Chattooga,2020,Percent of Deaths by Cause-All Opioids,*
+Cherokee,2020,Percent of Deaths by Cause-All Opioids,2.3
+Clarke,2020,Percent of Deaths by Cause-All Opioids,1.3
+Clay,2020,Percent of Deaths by Cause-All Opioids,*
+Clayton,2020,Percent of Deaths by Cause-All Opioids,1.1
+Clinch,2020,Percent of Deaths by Cause-All Opioids,*
+Cobb,2020,Percent of Deaths by Cause-All Opioids,2.1
+Coffee,2020,Percent of Deaths by Cause-All Opioids,*
+Colquitt,2020,Percent of Deaths by Cause-All Opioids,1.1
+Columbia,2020,Percent of Deaths by Cause-All Opioids,1.8
+Cook,2020,Percent of Deaths by Cause-All Opioids,*
+Coweta,2020,Percent of Deaths by Cause-All Opioids,0.8
+Crawford,2020,Percent of Deaths by Cause-All Opioids,0.0
+Crisp,2020,Percent of Deaths by Cause-All Opioids,*
+Dade,2020,Percent of Deaths by Cause-All Opioids,*
+Dawson,2020,Percent of Deaths by Cause-All Opioids,*
+Decatur,2020,Percent of Deaths by Cause-All Opioids,*
+DeKalb,2020,Percent of Deaths by Cause-All Opioids,1.5
+Dodge,2020,Percent of Deaths by Cause-All Opioids,*
+Dooly,2020,Percent of Deaths by Cause-All Opioids,*
+Dougherty,2020,Percent of Deaths by Cause-All Opioids,*
+Douglas,2020,Percent of Deaths by Cause-All Opioids,2.0
+Early,2020,Percent of Deaths by Cause-All Opioids,0.0
+Echols,2020,Percent of Deaths by Cause-All Opioids,0.0
+Effingham,2020,Percent of Deaths by Cause-All Opioids,1.6
+Elbert,2020,Percent of Deaths by Cause-All Opioids,1.4
+Emanuel,2020,Percent of Deaths by Cause-All Opioids,*
+Evans,2020,Percent of Deaths by Cause-All Opioids,0.0
+Fannin,2020,Percent of Deaths by Cause-All Opioids,*
+Fayette,2020,Percent of Deaths by Cause-All Opioids,0.8
+Floyd,2020,Percent of Deaths by Cause-All Opioids,1.2
+Forsyth,2020,Percent of Deaths by Cause-All Opioids,1.4
+Franklin,2020,Percent of Deaths by Cause-All Opioids,*
+Fulton,2020,Percent of Deaths by Cause-All Opioids,1.6
+Gilmer,2020,Percent of Deaths by Cause-All Opioids,1.9
+Glascock,2020,Percent of Deaths by Cause-All Opioids,0.0
+Glynn,2020,Percent of Deaths by Cause-All Opioids,1.5
+Gordon,2020,Percent of Deaths by Cause-All Opioids,*
+Grady,2020,Percent of Deaths by Cause-All Opioids,*
+Greene,2020,Percent of Deaths by Cause-All Opioids,*
+Gwinnett,2020,Percent of Deaths by Cause-All Opioids,1.7
+Habersham,2020,Percent of Deaths by Cause-All Opioids,1.9
+Hall,2020,Percent of Deaths by Cause-All Opioids,1.3
+Hancock,2020,Percent of Deaths by Cause-All Opioids,0.0
+Haralson,2020,Percent of Deaths by Cause-All Opioids,1.7
+Harris,2020,Percent of Deaths by Cause-All Opioids,1.7
+Hart,2020,Percent of Deaths by Cause-All Opioids,*
+Heard,2020,Percent of Deaths by Cause-All Opioids,*
+Henry,2020,Percent of Deaths by Cause-All Opioids,1.3
+Houston,2020,Percent of Deaths by Cause-All Opioids,1.0
+Irwin,2020,Percent of Deaths by Cause-All Opioids,0.0
+Jackson,2020,Percent of Deaths by Cause-All Opioids,1.1
+Jasper,2020,Percent of Deaths by Cause-All Opioids,*
+Jefferson,2020,Percent of Deaths by Cause-All Opioids,0.0
+Jenkins,2020,Percent of Deaths by Cause-All Opioids,*
+Johnson,2020,Percent of Deaths by Cause-All Opioids,0.0
+Jones,2020,Percent of Deaths by Cause-All Opioids,*
+Lamar,2020,Percent of Deaths by Cause-All Opioids,0.0
+Lanier,2020,Percent of Deaths by Cause-All Opioids,0.0
+Laurens,2020,Percent of Deaths by Cause-All Opioids,*
+Lee,2020,Percent of Deaths by Cause-All Opioids,*
+Liberty,2020,Percent of Deaths by Cause-All Opioids,1.1
+Lincoln,2020,Percent of Deaths by Cause-All Opioids,*
+Long,2020,Percent of Deaths by Cause-All Opioids,*
+Lowndes,2020,Percent of Deaths by Cause-All Opioids,0.4
+Lumpkin,2020,Percent of Deaths by Cause-All Opioids,2.3
+McDuffie,2020,Percent of Deaths by Cause-All Opioids,*
+McIntosh,2020,Percent of Deaths by Cause-All Opioids,*
+Macon,2020,Percent of Deaths by Cause-All Opioids,0.0
+Madison,2020,Percent of Deaths by Cause-All Opioids,1.5
+Marion,2020,Percent of Deaths by Cause-All Opioids,*
+Meriwether,2020,Percent of Deaths by Cause-All Opioids,*
+Miller,2020,Percent of Deaths by Cause-All Opioids,*
+Mitchell,2020,Percent of Deaths by Cause-All Opioids,0.0
+Monroe,2020,Percent of Deaths by Cause-All Opioids,*
+Montgomery,2020,Percent of Deaths by Cause-All Opioids,*
+Morgan,2020,Percent of Deaths by Cause-All Opioids,*
+Murray,2020,Percent of Deaths by Cause-All Opioids,*
+Muscogee,2020,Percent of Deaths by Cause-All Opioids,0.5
+Newton,2020,Percent of Deaths by Cause-All Opioids,1.1
+Oconee,2020,Percent of Deaths by Cause-All Opioids,1.5
+Oglethorpe,2020,Percent of Deaths by Cause-All Opioids,*
+Paulding,2020,Percent of Deaths by Cause-All Opioids,2.3
+Peach,2020,Percent of Deaths by Cause-All Opioids,*
+Pickens,2020,Percent of Deaths by Cause-All Opioids,1.2
+Pierce,2020,Percent of Deaths by Cause-All Opioids,1.7
+Pike,2020,Percent of Deaths by Cause-All Opioids,*
+Polk,2020,Percent of Deaths by Cause-All Opioids,1.2
+Pulaski,2020,Percent of Deaths by Cause-All Opioids,0.0
+Putnam,2020,Percent of Deaths by Cause-All Opioids,*
+Quitman,2020,Percent of Deaths by Cause-All Opioids,0.0
+Rabun,2020,Percent of Deaths by Cause-All Opioids,1.7
+Randolph,2020,Percent of Deaths by Cause-All Opioids,*
+Richmond,2020,Percent of Deaths by Cause-All Opioids,1.8
+Rockdale,2020,Percent of Deaths by Cause-All Opioids,1.6
+Schley,2020,Percent of Deaths by Cause-All Opioids,0.0
+Screven,2020,Percent of Deaths by Cause-All Opioids,*
+Seminole,2020,Percent of Deaths by Cause-All Opioids,*
+Spalding,2020,Percent of Deaths by Cause-All Opioids,0.9
+Stephens,2020,Percent of Deaths by Cause-All Opioids,*
+Stewart,2020,Percent of Deaths by Cause-All Opioids,0.0
+Sumter,2020,Percent of Deaths by Cause-All Opioids,*
+Talbot,2020,Percent of Deaths by Cause-All Opioids,*
+Taliaferro,2020,Percent of Deaths by Cause-All Opioids,0.0
+Tattnall,2020,Percent of Deaths by Cause-All Opioids,0.0
+Taylor,2020,Percent of Deaths by Cause-All Opioids,0.0
+Telfair,2020,Percent of Deaths by Cause-All Opioids,*
+Terrell,2020,Percent of Deaths by Cause-All Opioids,*
+Thomas,2020,Percent of Deaths by Cause-All Opioids,*
+Tift,2020,Percent of Deaths by Cause-All Opioids,*
+Toombs,2020,Percent of Deaths by Cause-All Opioids,*
+Towns,2020,Percent of Deaths by Cause-All Opioids,*
+Treutlen,2020,Percent of Deaths by Cause-All Opioids,*
+Troup,2020,Percent of Deaths by Cause-All Opioids,1.1
+Turner,2020,Percent of Deaths by Cause-All Opioids,0.0
+Twiggs,2020,Percent of Deaths by Cause-All Opioids,0.0
+Union,2020,Percent of Deaths by Cause-All Opioids,1.6
+Upson,2020,Percent of Deaths by Cause-All Opioids,*
+Walker,2020,Percent of Deaths by Cause-All Opioids,1.9
+Walton,2020,Percent of Deaths by Cause-All Opioids,1.4
+Ware,2020,Percent of Deaths by Cause-All Opioids,1.5
+Warren,2020,Percent of Deaths by Cause-All Opioids,0.0
+Washington,2020,Percent of Deaths by Cause-All Opioids,0.0
+Wayne,2020,Percent of Deaths by Cause-All Opioids,1.5
+Webster,2020,Percent of Deaths by Cause-All Opioids,0.0
+Wheeler,2020,Percent of Deaths by Cause-All Opioids,0.0
+White,2020,Percent of Deaths by Cause-All Opioids,1.5
+Whitfield,2020,Percent of Deaths by Cause-All Opioids,0.9
+Wilcox,2020,Percent of Deaths by Cause-All Opioids,0.0
+Wilkes,2020,Percent of Deaths by Cause-All Opioids,*
+Wilkinson,2020,Percent of Deaths by Cause-All Opioids,*
+Worth,2020,Percent of Deaths by Cause-All Opioids,*
+Appling,2020,Death Rate-Drug Overdoses,*
+Atkinson,2020,Death Rate-Drug Overdoses,*
+Bacon,2020,Death Rate-Drug Overdoses,*
+Baker,2020,Death Rate-Drug Overdoses,*
+Baldwin,2020,Death Rate-Drug Overdoses,*
+Banks,2020,Death Rate-Drug Overdoses,*
+Barrow,2020,Death Rate-Drug Overdoses,16.4
+Bartow,2020,Death Rate-Drug Overdoses,32.9
+Berrien,2020,Death Rate-Drug Overdoses,*
+Bibb,2020,Death Rate-Drug Overdoses,10.5
+Bleckley,2020,Death Rate-Drug Overdoses,38.6
+Brantley,2020,Death Rate-Drug Overdoses,26.0
+Brooks,2020,Death Rate-Drug Overdoses,0.0
+Bryan,2020,Death Rate-Drug Overdoses,17.2
+Bulloch,2020,Death Rate-Drug Overdoses,*
+Burke,2020,Death Rate-Drug Overdoses,*
+Butts,2020,Death Rate-Drug Overdoses,23.6
+Calhoun,2020,Death Rate-Drug Overdoses,0.0
+Camden,2020,Death Rate-Drug Overdoses,16.2
+Candler,2020,Death Rate-Drug Overdoses,*
+Carroll,2020,Death Rate-Drug Overdoses,28.0
+Catoosa,2020,Death Rate-Drug Overdoses,27.9
+Charlton,2020,Death Rate-Drug Overdoses,*
+Chatham,2020,Death Rate-Drug Overdoses,23.1
+Chattahoochee,2020,Death Rate-Drug Overdoses,*
+Chattooga,2020,Death Rate-Drug Overdoses,32.2
+Cherokee,2020,Death Rate-Drug Overdoses,20.7
+Clarke,2020,Death Rate-Drug Overdoses,11.7
+Clay,2020,Death Rate-Drug Overdoses,*
+Clayton,2020,Death Rate-Drug Overdoses,16.4
+Clinch,2020,Death Rate-Drug Overdoses,*
+Cobb,2020,Death Rate-Drug Overdoses,21.1
+Coffee,2020,Death Rate-Drug Overdoses,13.9
+Colquitt,2020,Death Rate-Drug Overdoses,19.8
+Columbia,2020,Death Rate-Drug Overdoses,18.1
+Cook,2020,Death Rate-Drug Overdoses,*
+Coweta,2020,Death Rate-Drug Overdoses,13.3
+Crawford,2020,Death Rate-Drug Overdoses,*
+Crisp,2020,Death Rate-Drug Overdoses,22.7
+Dade,2020,Death Rate-Drug Overdoses,37.4
+Dawson,2020,Death Rate-Drug Overdoses,22.1
+Decatur,2020,Death Rate-Drug Overdoses,*
+DeKalb,2020,Death Rate-Drug Overdoses,14.6
+Dodge,2020,Death Rate-Drug Overdoses,34.2
+Dooly,2020,Death Rate-Drug Overdoses,*
+Dougherty,2020,Death Rate-Drug Overdoses,13.9
+Douglas,2020,Death Rate-Drug Overdoses,20.9
+Early,2020,Death Rate-Drug Overdoses,*
+Echols,2020,Death Rate-Drug Overdoses,0.0
+Effingham,2020,Death Rate-Drug Overdoses,13.7
+Elbert,2020,Death Rate-Drug Overdoses,41.4
+Emanuel,2020,Death Rate-Drug Overdoses,*
+Evans,2020,Death Rate-Drug Overdoses,0.0
+Fannin,2020,Death Rate-Drug Overdoses,30.2
+Fayette,2020,Death Rate-Drug Overdoses,9.5
+Floyd,2020,Death Rate-Drug Overdoses,21.3
+Forsyth,2020,Death Rate-Drug Overdoses,9.2
+Franklin,2020,Death Rate-Drug Overdoses,29.8
+Fulton,2020,Death Rate-Drug Overdoses,18.3
+Gilmer,2020,Death Rate-Drug Overdoses,40.7
+Glascock,2020,Death Rate-Drug Overdoses,0.0
+Glynn,2020,Death Rate-Drug Overdoses,25.7
+Gordon,2020,Death Rate-Drug Overdoses,*
+Grady,2020,Death Rate-Drug Overdoses,*
+Greene,2020,Death Rate-Drug Overdoses,*
+Gwinnett,2020,Death Rate-Drug Overdoses,12.3
+Habersham,2020,Death Rate-Drug Overdoses,28.2
+Hall,2020,Death Rate-Drug Overdoses,16.0
+Hancock,2020,Death Rate-Drug Overdoses,0.0
+Haralson,2020,Death Rate-Drug Overdoses,49.4
+Harris,2020,Death Rate-Drug Overdoses,16.6
+Hart,2020,Death Rate-Drug Overdoses,18.9
+Heard,2020,Death Rate-Drug Overdoses,*
+Henry,2020,Death Rate-Drug Overdoses,15.5
+Houston,2020,Death Rate-Drug Overdoses,12.5
+Irwin,2020,Death Rate-Drug Overdoses,0.0
+Jackson,2020,Death Rate-Drug Overdoses,19.7
+Jasper,2020,Death Rate-Drug Overdoses,*
+Jefferson,2020,Death Rate-Drug Overdoses,0.0
+Jenkins,2020,Death Rate-Drug Overdoses,*
+Johnson,2020,Death Rate-Drug Overdoses,0.0
+Jones,2020,Death Rate-Drug Overdoses,*
+Lamar,2020,Death Rate-Drug Overdoses,*
+Lanier,2020,Death Rate-Drug Overdoses,*
+Laurens,2020,Death Rate-Drug Overdoses,16.8
+Lee,2020,Death Rate-Drug Overdoses,*
+Liberty,2020,Death Rate-Drug Overdoses,14.3
+Lincoln,2020,Death Rate-Drug Overdoses,*
+Long,2020,Death Rate-Drug Overdoses,*
+Lowndes,2020,Death Rate-Drug Overdoses,5.1
+Lumpkin,2020,Death Rate-Drug Overdoses,26.3
+McDuffie,2020,Death Rate-Drug Overdoses,28.4
+McIntosh,2020,Death Rate-Drug Overdoses,34.8
+Macon,2020,Death Rate-Drug Overdoses,0.0
+Madison,2020,Death Rate-Drug Overdoses,23.0
+Marion,2020,Death Rate-Drug Overdoses,*
+Meriwether,2020,Death Rate-Drug Overdoses,23.6
+Miller,2020,Death Rate-Drug Overdoses,*
+Mitchell,2020,Death Rate-Drug Overdoses,*
+Monroe,2020,Death Rate-Drug Overdoses,17.8
+Montgomery,2020,Death Rate-Drug Overdoses,*
+Morgan,2020,Death Rate-Drug Overdoses,*
+Murray,2020,Death Rate-Drug Overdoses,22.5
+Muscogee,2020,Death Rate-Drug Overdoses,16.3
+Newton,2020,Death Rate-Drug Overdoses,16.8
+Oconee,2020,Death Rate-Drug Overdoses,14.6
+Oglethorpe,2020,Death Rate-Drug Overdoses,*
+Paulding,2020,Death Rate-Drug Overdoses,25.4
+Peach,2020,Death Rate-Drug Overdoses,25.0
+Pickens,2020,Death Rate-Drug Overdoses,21.1
+Pierce,2020,Death Rate-Drug Overdoses,30.7
+Pike,2020,Death Rate-Drug Overdoses,*
+Polk,2020,Death Rate-Drug Overdoses,30.3
+Pulaski,2020,Death Rate-Drug Overdoses,0.0
+Putnam,2020,Death Rate-Drug Overdoses,*
+Quitman,2020,Death Rate-Drug Overdoses,0.0
+Rabun,2020,Death Rate-Drug Overdoses,28.9
+Randolph,2020,Death Rate-Drug Overdoses,*
+Richmond,2020,Death Rate-Drug Overdoses,33.7
+Rockdale,2020,Death Rate-Drug Overdoses,18.7
+Schley,2020,Death Rate-Drug Overdoses,*
+Screven,2020,Death Rate-Drug Overdoses,*
+Seminole,2020,Death Rate-Drug Overdoses,*
+Spalding,2020,Death Rate-Drug Overdoses,20.8
+Stephens,2020,Death Rate-Drug Overdoses,*
+Stewart,2020,Death Rate-Drug Overdoses,0.0
+Sumter,2020,Death Rate-Drug Overdoses,*
+Talbot,2020,Death Rate-Drug Overdoses,*
+Taliaferro,2020,Death Rate-Drug Overdoses,0.0
+Tattnall,2020,Death Rate-Drug Overdoses,*
+Taylor,2020,Death Rate-Drug Overdoses,*
+Telfair,2020,Death Rate-Drug Overdoses,*
+Terrell,2020,Death Rate-Drug Overdoses,*
+Thomas,2020,Death Rate-Drug Overdoses,11.3
+Tift,2020,Death Rate-Drug Overdoses,*
+Toombs,2020,Death Rate-Drug Overdoses,*
+Towns,2020,Death Rate-Drug Overdoses,*
+Treutlen,2020,Death Rate-Drug Overdoses,*
+Troup,2020,Death Rate-Drug Overdoses,24.2
+Turner,2020,Death Rate-Drug Overdoses,*
+Twiggs,2020,Death Rate-Drug Overdoses,*
+Union,2020,Death Rate-Drug Overdoses,35.5
+Upson,2020,Death Rate-Drug Overdoses,*
+Walker,2020,Death Rate-Drug Overdoses,32.8
+Walton,2020,Death Rate-Drug Overdoses,27.9
+Ware,2020,Death Rate-Drug Overdoses,30.7
+Warren,2020,Death Rate-Drug Overdoses,*
+Washington,2020,Death Rate-Drug Overdoses,0.0
+Wayne,2020,Death Rate-Drug Overdoses,26.6
+Webster,2020,Death Rate-Drug Overdoses,0.0
+Wheeler,2020,Death Rate-Drug Overdoses,0.0
+White,2020,Death Rate-Drug Overdoses,28.9
+Whitfield,2020,Death Rate-Drug Overdoses,16.4
+Wilcox,2020,Death Rate-Drug Overdoses,0.0
+Wilkes,2020,Death Rate-Drug Overdoses,*
+Wilkinson,2020,Death Rate-Drug Overdoses,*
+Worth,2020,Death Rate-Drug Overdoses,*
+Appling,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Atkinson,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Bacon,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Baker,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Baldwin,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Banks,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Barrow,2020,Percent of Deaths by Cause-Drug Overdoses,1.9
+Bartow,2020,Percent of Deaths by Cause-Drug Overdoses,3.0
+Berrien,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Bibb,2020,Percent of Deaths by Cause-Drug Overdoses,0.8
+Bleckley,2020,Percent of Deaths by Cause-Drug Overdoses,2.6
+Brantley,2020,Percent of Deaths by Cause-Drug Overdoses,2.0
+Brooks,2020,Percent of Deaths by Cause-Drug Overdoses,0.0
+Bryan,2020,Percent of Deaths by Cause-Drug Overdoses,2.0
+Bulloch,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Burke,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Butts,2020,Percent of Deaths by Cause-Drug Overdoses,1.8
+Calhoun,2020,Percent of Deaths by Cause-Drug Overdoses,0.0
+Camden,2020,Percent of Deaths by Cause-Drug Overdoses,2.1
+Candler,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Carroll,2020,Percent of Deaths by Cause-Drug Overdoses,2.6
+Catoosa,2020,Percent of Deaths by Cause-Drug Overdoses,2.3
+Charlton,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Chatham,2020,Percent of Deaths by Cause-Drug Overdoses,2.3
+Chattahoochee,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Chattooga,2020,Percent of Deaths by Cause-Drug Overdoses,2.1
+Cherokee,2020,Percent of Deaths by Cause-Drug Overdoses,2.8
+Clarke,2020,Percent of Deaths by Cause-Drug Overdoses,1.8
+Clay,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Clayton,2020,Percent of Deaths by Cause-Drug Overdoses,2.1
+Clinch,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Cobb,2020,Percent of Deaths by Cause-Drug Overdoses,3.0
+Coffee,2020,Percent of Deaths by Cause-Drug Overdoses,1.1
+Colquitt,2020,Percent of Deaths by Cause-Drug Overdoses,1.4
+Columbia,2020,Percent of Deaths by Cause-Drug Overdoses,2.3
+Cook,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Coweta,2020,Percent of Deaths by Cause-Drug Overdoses,1.5
+Crawford,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Crisp,2020,Percent of Deaths by Cause-Drug Overdoses,1.3
+Dade,2020,Percent of Deaths by Cause-Drug Overdoses,2.5
+Dawson,2020,Percent of Deaths by Cause-Drug Overdoses,2.3
+Decatur,2020,Percent of Deaths by Cause-Drug Overdoses,*
+DeKalb,2020,Percent of Deaths by Cause-Drug Overdoses,1.9
+Dodge,2020,Percent of Deaths by Cause-Drug Overdoses,2.2
+Dooly,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Dougherty,2020,Percent of Deaths by Cause-Drug Overdoses,1.0
+Douglas,2020,Percent of Deaths by Cause-Drug Overdoses,2.5
+Early,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Echols,2020,Percent of Deaths by Cause-Drug Overdoses,0.0
+Effingham,2020,Percent of Deaths by Cause-Drug Overdoses,1.6
+Elbert,2020,Percent of Deaths by Cause-Drug Overdoses,2.2
+Emanuel,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Evans,2020,Percent of Deaths by Cause-Drug Overdoses,0.0
+Fannin,2020,Percent of Deaths by Cause-Drug Overdoses,1.9
+Fayette,2020,Percent of Deaths by Cause-Drug Overdoses,1.1
+Floyd,2020,Percent of Deaths by Cause-Drug Overdoses,1.6
+Forsyth,2020,Percent of Deaths by Cause-Drug Overdoses,1.6
+Franklin,2020,Percent of Deaths by Cause-Drug Overdoses,1.8
+Fulton,2020,Percent of Deaths by Cause-Drug Overdoses,2.5
+Gilmer,2020,Percent of Deaths by Cause-Drug Overdoses,3.1
+Glascock,2020,Percent of Deaths by Cause-Drug Overdoses,0.0
+Glynn,2020,Percent of Deaths by Cause-Drug Overdoses,2.0
+Gordon,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Grady,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Greene,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Gwinnett,2020,Percent of Deaths by Cause-Drug Overdoses,2.1
+Habersham,2020,Percent of Deaths by Cause-Drug Overdoses,2.2
+Hall,2020,Percent of Deaths by Cause-Drug Overdoses,1.6
+Hancock,2020,Percent of Deaths by Cause-Drug Overdoses,0.0
+Haralson,2020,Percent of Deaths by Cause-Drug Overdoses,3.2
+Harris,2020,Percent of Deaths by Cause-Drug Overdoses,1.7
+Hart,2020,Percent of Deaths by Cause-Drug Overdoses,1.3
+Heard,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Henry,2020,Percent of Deaths by Cause-Drug Overdoses,1.9
+Houston,2020,Percent of Deaths by Cause-Drug Overdoses,1.3
+Irwin,2020,Percent of Deaths by Cause-Drug Overdoses,0.0
+Jackson,2020,Percent of Deaths by Cause-Drug Overdoses,1.9
+Jasper,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Jefferson,2020,Percent of Deaths by Cause-Drug Overdoses,0.0
+Jenkins,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Johnson,2020,Percent of Deaths by Cause-Drug Overdoses,0.0
+Jones,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Lamar,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Lanier,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Laurens,2020,Percent of Deaths by Cause-Drug Overdoses,1.1
+Lee,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Liberty,2020,Percent of Deaths by Cause-Drug Overdoses,2.0
+Lincoln,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Long,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Lowndes,2020,Percent of Deaths by Cause-Drug Overdoses,0.5
+Lumpkin,2020,Percent of Deaths by Cause-Drug Overdoses,2.6
+McDuffie,2020,Percent of Deaths by Cause-Drug Overdoses,2.1
+McIntosh,2020,Percent of Deaths by Cause-Drug Overdoses,2.8
+Macon,2020,Percent of Deaths by Cause-Drug Overdoses,0.0
+Madison,2020,Percent of Deaths by Cause-Drug Overdoses,2.1
+Marion,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Meriwether,2020,Percent of Deaths by Cause-Drug Overdoses,1.4
+Miller,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Mitchell,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Monroe,2020,Percent of Deaths by Cause-Drug Overdoses,1.3
+Montgomery,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Morgan,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Murray,2020,Percent of Deaths by Cause-Drug Overdoses,1.9
+Muscogee,2020,Percent of Deaths by Cause-Drug Overdoses,1.4
+Newton,2020,Percent of Deaths by Cause-Drug Overdoses,1.6
+Oconee,2020,Percent of Deaths by Cause-Drug Overdoses,1.7
+Oglethorpe,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Paulding,2020,Percent of Deaths by Cause-Drug Overdoses,3.4
+Peach,2020,Percent of Deaths by Cause-Drug Overdoses,2.2
+Pickens,2020,Percent of Deaths by Cause-Drug Overdoses,1.7
+Pierce,2020,Percent of Deaths by Cause-Drug Overdoses,2.0
+Pike,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Polk,2020,Percent of Deaths by Cause-Drug Overdoses,2.3
+Pulaski,2020,Percent of Deaths by Cause-Drug Overdoses,0.0
+Putnam,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Quitman,2020,Percent of Deaths by Cause-Drug Overdoses,0.0
+Rabun,2020,Percent of Deaths by Cause-Drug Overdoses,1.7
+Randolph,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Richmond,2020,Percent of Deaths by Cause-Drug Overdoses,2.8
+Rockdale,2020,Percent of Deaths by Cause-Drug Overdoses,1.9
+Schley,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Screven,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Seminole,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Spalding,2020,Percent of Deaths by Cause-Drug Overdoses,1.4
+Stephens,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Stewart,2020,Percent of Deaths by Cause-Drug Overdoses,0.0
+Sumter,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Talbot,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Taliaferro,2020,Percent of Deaths by Cause-Drug Overdoses,0.0
+Tattnall,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Taylor,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Telfair,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Terrell,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Thomas,2020,Percent of Deaths by Cause-Drug Overdoses,0.8
+Tift,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Toombs,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Towns,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Treutlen,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Troup,2020,Percent of Deaths by Cause-Drug Overdoses,1.9
+Turner,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Twiggs,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Union,2020,Percent of Deaths by Cause-Drug Overdoses,2.1
+Upson,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Walker,2020,Percent of Deaths by Cause-Drug Overdoses,2.4
+Walton,2020,Percent of Deaths by Cause-Drug Overdoses,2.6
+Ware,2020,Percent of Deaths by Cause-Drug Overdoses,1.8
+Warren,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Washington,2020,Percent of Deaths by Cause-Drug Overdoses,0.0
+Wayne,2020,Percent of Deaths by Cause-Drug Overdoses,2.0
+Webster,2020,Percent of Deaths by Cause-Drug Overdoses,0.0
+Wheeler,2020,Percent of Deaths by Cause-Drug Overdoses,0.0
+White,2020,Percent of Deaths by Cause-Drug Overdoses,2.3
+Whitfield,2020,Percent of Deaths by Cause-Drug Overdoses,1.6
+Wilcox,2020,Percent of Deaths by Cause-Drug Overdoses,0.0
+Wilkes,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Wilkinson,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Worth,2020,Percent of Deaths by Cause-Drug Overdoses,*
+Appling,2016,Age-Adjusted Death Rate-All Opioids,*
+Atkinson,2016,Age-Adjusted Death Rate-All Opioids,*
+Bacon,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Baker,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Baldwin,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Banks,2016,Age-Adjusted Death Rate-All Opioids,*
+Barrow,2016,Age-Adjusted Death Rate-All Opioids,11.9
+Bartow,2016,Age-Adjusted Death Rate-All Opioids,12.9
+Berrien,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Bibb,2016,Age-Adjusted Death Rate-All Opioids,7.5
+Bleckley,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Brantley,2016,Age-Adjusted Death Rate-All Opioids,29.1
+Brooks,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Bryan,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Bulloch,2016,Age-Adjusted Death Rate-All Opioids,*
+Burke,2016,Age-Adjusted Death Rate-All Opioids,*
+Butts,2016,Age-Adjusted Death Rate-All Opioids,*
+Calhoun,2016,Age-Adjusted Death Rate-All Opioids,*
+Camden,2016,Age-Adjusted Death Rate-All Opioids,*
+Candler,2016,Age-Adjusted Death Rate-All Opioids,*
+Carroll,2016,Age-Adjusted Death Rate-All Opioids,17.6
+Catoosa,2016,Age-Adjusted Death Rate-All Opioids,16.7
+Charlton,2016,Age-Adjusted Death Rate-All Opioids,*
+Chatham,2016,Age-Adjusted Death Rate-All Opioids,9.7
+Chattahoochee,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Chattooga,2016,Age-Adjusted Death Rate-All Opioids,*
+Cherokee,2016,Age-Adjusted Death Rate-All Opioids,14.8
+Clarke,2016,Age-Adjusted Death Rate-All Opioids,9.1
+Clay,2016,Age-Adjusted Death Rate-All Opioids,*
+Clayton,2016,Age-Adjusted Death Rate-All Opioids,6.3
+Clinch,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Cobb,2016,Age-Adjusted Death Rate-All Opioids,12.3
+Coffee,2016,Age-Adjusted Death Rate-All Opioids,12.3
+Colquitt,2016,Age-Adjusted Death Rate-All Opioids,*
+Columbia,2016,Age-Adjusted Death Rate-All Opioids,10.4
+Cook,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Coweta,2016,Age-Adjusted Death Rate-All Opioids,10.8
+Crawford,2016,Age-Adjusted Death Rate-All Opioids,*
+Crisp,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Dade,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Dawson,2016,Age-Adjusted Death Rate-All Opioids,*
+Decatur,2016,Age-Adjusted Death Rate-All Opioids,0.0
+DeKalb,2016,Age-Adjusted Death Rate-All Opioids,5.7
+Dodge,2016,Age-Adjusted Death Rate-All Opioids,*
+Dooly,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Dougherty,2016,Age-Adjusted Death Rate-All Opioids,5.7
+Douglas,2016,Age-Adjusted Death Rate-All Opioids,16.0
+Early,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Echols,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Effingham,2016,Age-Adjusted Death Rate-All Opioids,*
+Elbert,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Emanuel,2016,Age-Adjusted Death Rate-All Opioids,*
+Evans,2016,Age-Adjusted Death Rate-All Opioids,*
+Fannin,2016,Age-Adjusted Death Rate-All Opioids,15.5
+Fayette,2016,Age-Adjusted Death Rate-All Opioids,*
+Floyd,2016,Age-Adjusted Death Rate-All Opioids,9.2
+Forsyth,2016,Age-Adjusted Death Rate-All Opioids,6.4
+Franklin,2016,Age-Adjusted Death Rate-All Opioids,*
+Fulton,2016,Age-Adjusted Death Rate-All Opioids,9.6
+Gilmer,2016,Age-Adjusted Death Rate-All Opioids,22.0
+Glascock,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Glynn,2016,Age-Adjusted Death Rate-All Opioids,9.1
+Gordon,2016,Age-Adjusted Death Rate-All Opioids,13.4
+Grady,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Greene,2016,Age-Adjusted Death Rate-All Opioids,*
+Gwinnett,2016,Age-Adjusted Death Rate-All Opioids,6.0
+Habersham,2016,Age-Adjusted Death Rate-All Opioids,*
+Hall,2016,Age-Adjusted Death Rate-All Opioids,6.6
+Hancock,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Haralson,2016,Age-Adjusted Death Rate-All Opioids,23.7
+Harris,2016,Age-Adjusted Death Rate-All Opioids,14.9
+Hart,2016,Age-Adjusted Death Rate-All Opioids,*
+Heard,2016,Age-Adjusted Death Rate-All Opioids,*
+Henry,2016,Age-Adjusted Death Rate-All Opioids,11.4
+Houston,2016,Age-Adjusted Death Rate-All Opioids,3.0
+Irwin,2016,Age-Adjusted Death Rate-All Opioids,*
+Jackson,2016,Age-Adjusted Death Rate-All Opioids,10.1
+Jasper,2016,Age-Adjusted Death Rate-All Opioids,*
+Jefferson,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Jenkins,2016,Age-Adjusted Death Rate-All Opioids,*
+Johnson,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Jones,2016,Age-Adjusted Death Rate-All Opioids,*
+Lamar,2016,Age-Adjusted Death Rate-All Opioids,*
+Lanier,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Laurens,2016,Age-Adjusted Death Rate-All Opioids,*
+Lee,2016,Age-Adjusted Death Rate-All Opioids,*
+Liberty,2016,Age-Adjusted Death Rate-All Opioids,*
+Lincoln,2016,Age-Adjusted Death Rate-All Opioids,*
+Long,2016,Age-Adjusted Death Rate-All Opioids,*
+Lowndes,2016,Age-Adjusted Death Rate-All Opioids,4.7
+Lumpkin,2016,Age-Adjusted Death Rate-All Opioids,*
+McDuffie,2016,Age-Adjusted Death Rate-All Opioids,0.0
+McIntosh,2016,Age-Adjusted Death Rate-All Opioids,*
+Macon,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Madison,2016,Age-Adjusted Death Rate-All Opioids,*
+Marion,2016,Age-Adjusted Death Rate-All Opioids,*
+Meriwether,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Miller,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Mitchell,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Monroe,2016,Age-Adjusted Death Rate-All Opioids,*
+Montgomery,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Morgan,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Murray,2016,Age-Adjusted Death Rate-All Opioids,*
+Muscogee,2016,Age-Adjusted Death Rate-All Opioids,4.1
+Newton,2016,Age-Adjusted Death Rate-All Opioids,6.7
+Oconee,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Oglethorpe,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Paulding,2016,Age-Adjusted Death Rate-All Opioids,14.9
+Peach,2016,Age-Adjusted Death Rate-All Opioids,*
+Pickens,2016,Age-Adjusted Death Rate-All Opioids,*
+Pierce,2016,Age-Adjusted Death Rate-All Opioids,*
+Pike,2016,Age-Adjusted Death Rate-All Opioids,*
+Polk,2016,Age-Adjusted Death Rate-All Opioids,*
+Pulaski,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Putnam,2016,Age-Adjusted Death Rate-All Opioids,*
+Quitman,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Rabun,2016,Age-Adjusted Death Rate-All Opioids,*
+Randolph,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Richmond,2016,Age-Adjusted Death Rate-All Opioids,11.9
+Rockdale,2016,Age-Adjusted Death Rate-All Opioids,8.5
+Schley,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Screven,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Seminole,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Spalding,2016,Age-Adjusted Death Rate-All Opioids,10.6
+Stephens,2016,Age-Adjusted Death Rate-All Opioids,22.4
+Stewart,2016,Age-Adjusted Death Rate-All Opioids,*
+Sumter,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Talbot,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Taliaferro,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Tattnall,2016,Age-Adjusted Death Rate-All Opioids,*
+Taylor,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Telfair,2016,Age-Adjusted Death Rate-All Opioids,*
+Terrell,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Thomas,2016,Age-Adjusted Death Rate-All Opioids,*
+Tift,2016,Age-Adjusted Death Rate-All Opioids,*
+Toombs,2016,Age-Adjusted Death Rate-All Opioids,*
+Towns,2016,Age-Adjusted Death Rate-All Opioids,*
+Treutlen,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Troup,2016,Age-Adjusted Death Rate-All Opioids,10.3
+Turner,2016,Age-Adjusted Death Rate-All Opioids,*
+Twiggs,2016,Age-Adjusted Death Rate-All Opioids,*
+Union,2016,Age-Adjusted Death Rate-All Opioids,*
+Upson,2016,Age-Adjusted Death Rate-All Opioids,*
+Walker,2016,Age-Adjusted Death Rate-All Opioids,14.6
+Walton,2016,Age-Adjusted Death Rate-All Opioids,12.8
+Ware,2016,Age-Adjusted Death Rate-All Opioids,*
+Warren,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Washington,2016,Age-Adjusted Death Rate-All Opioids,*
+Wayne,2016,Age-Adjusted Death Rate-All Opioids,16.6
+Webster,2016,Age-Adjusted Death Rate-All Opioids,*
+Wheeler,2016,Age-Adjusted Death Rate-All Opioids,0.0
+White,2016,Age-Adjusted Death Rate-All Opioids,13.0
+Whitfield,2016,Age-Adjusted Death Rate-All Opioids,6.1
+Wilcox,2016,Age-Adjusted Death Rate-All Opioids,*
+Wilkes,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Wilkinson,2016,Age-Adjusted Death Rate-All Opioids,0.0
+Worth,2016,Age-Adjusted Death Rate-All Opioids,*
+Appling,2016,Percent of Deaths by Cause-All Opioids,*
+Atkinson,2016,Percent of Deaths by Cause-All Opioids,*
+Bacon,2016,Percent of Deaths by Cause-All Opioids,0.0
+Baker,2016,Percent of Deaths by Cause-All Opioids,0.0
+Baldwin,2016,Percent of Deaths by Cause-All Opioids,0.0
+Banks,2016,Percent of Deaths by Cause-All Opioids,*
+Barrow,2016,Percent of Deaths by Cause-All Opioids,1.8
+Bartow,2016,Percent of Deaths by Cause-All Opioids,1.5
+Berrien,2016,Percent of Deaths by Cause-All Opioids,0.0
+Bibb,2016,Percent of Deaths by Cause-All Opioids,0.6
+Bleckley,2016,Percent of Deaths by Cause-All Opioids,0.0
+Brantley,2016,Percent of Deaths by Cause-All Opioids,2.5
+Brooks,2016,Percent of Deaths by Cause-All Opioids,0.0
+Bryan,2016,Percent of Deaths by Cause-All Opioids,0.0
+Bulloch,2016,Percent of Deaths by Cause-All Opioids,*
+Burke,2016,Percent of Deaths by Cause-All Opioids,*
+Butts,2016,Percent of Deaths by Cause-All Opioids,*
+Calhoun,2016,Percent of Deaths by Cause-All Opioids,*
+Camden,2016,Percent of Deaths by Cause-All Opioids,*
+Candler,2016,Percent of Deaths by Cause-All Opioids,*
+Carroll,2016,Percent of Deaths by Cause-All Opioids,1.8
+Catoosa,2016,Percent of Deaths by Cause-All Opioids,1.4
+Charlton,2016,Percent of Deaths by Cause-All Opioids,*
+Chatham,2016,Percent of Deaths by Cause-All Opioids,1.0
+Chattahoochee,2016,Percent of Deaths by Cause-All Opioids,0.0
+Chattooga,2016,Percent of Deaths by Cause-All Opioids,*
+Cherokee,2016,Percent of Deaths by Cause-All Opioids,2.2
+Clarke,2016,Percent of Deaths by Cause-All Opioids,1.6
+Clay,2016,Percent of Deaths by Cause-All Opioids,*
+Clayton,2016,Percent of Deaths by Cause-All Opioids,1.0
+Clinch,2016,Percent of Deaths by Cause-All Opioids,0.0
+Cobb,2016,Percent of Deaths by Cause-All Opioids,2.2
+Coffee,2016,Percent of Deaths by Cause-All Opioids,1.4
+Colquitt,2016,Percent of Deaths by Cause-All Opioids,*
+Columbia,2016,Percent of Deaths by Cause-All Opioids,1.7
+Cook,2016,Percent of Deaths by Cause-All Opioids,0.0
+Coweta,2016,Percent of Deaths by Cause-All Opioids,1.4
+Crawford,2016,Percent of Deaths by Cause-All Opioids,*
+Crisp,2016,Percent of Deaths by Cause-All Opioids,0.0
+Dade,2016,Percent of Deaths by Cause-All Opioids,0.0
+Dawson,2016,Percent of Deaths by Cause-All Opioids,*
+Decatur,2016,Percent of Deaths by Cause-All Opioids,0.0
+DeKalb,2016,Percent of Deaths by Cause-All Opioids,1.0
+Dodge,2016,Percent of Deaths by Cause-All Opioids,*
+Dooly,2016,Percent of Deaths by Cause-All Opioids,0.0
+Dougherty,2016,Percent of Deaths by Cause-All Opioids,0.5
+Douglas,2016,Percent of Deaths by Cause-All Opioids,2.4
+Early,2016,Percent of Deaths by Cause-All Opioids,0.0
+Echols,2016,Percent of Deaths by Cause-All Opioids,0.0
+Effingham,2016,Percent of Deaths by Cause-All Opioids,*
+Elbert,2016,Percent of Deaths by Cause-All Opioids,0.0
+Emanuel,2016,Percent of Deaths by Cause-All Opioids,*
+Evans,2016,Percent of Deaths by Cause-All Opioids,*
+Fannin,2016,Percent of Deaths by Cause-All Opioids,1.7
+Fayette,2016,Percent of Deaths by Cause-All Opioids,*
+Floyd,2016,Percent of Deaths by Cause-All Opioids,0.8
+Forsyth,2016,Percent of Deaths by Cause-All Opioids,1.1
+Franklin,2016,Percent of Deaths by Cause-All Opioids,*
+Fulton,2016,Percent of Deaths by Cause-All Opioids,1.7
+Gilmer,2016,Percent of Deaths by Cause-All Opioids,1.5
+Glascock,2016,Percent of Deaths by Cause-All Opioids,0.0
+Glynn,2016,Percent of Deaths by Cause-All Opioids,0.9
+Gordon,2016,Percent of Deaths by Cause-All Opioids,1.3
+Grady,2016,Percent of Deaths by Cause-All Opioids,0.0
+Greene,2016,Percent of Deaths by Cause-All Opioids,*
+Gwinnett,2016,Percent of Deaths by Cause-All Opioids,1.3
+Habersham,2016,Percent of Deaths by Cause-All Opioids,*
+Hall,2016,Percent of Deaths by Cause-All Opioids,0.9
+Hancock,2016,Percent of Deaths by Cause-All Opioids,0.0
+Haralson,2016,Percent of Deaths by Cause-All Opioids,2.1
+Harris,2016,Percent of Deaths by Cause-All Opioids,1.9
+Hart,2016,Percent of Deaths by Cause-All Opioids,*
+Heard,2016,Percent of Deaths by Cause-All Opioids,*
+Henry,2016,Percent of Deaths by Cause-All Opioids,1.8
+Houston,2016,Percent of Deaths by Cause-All Opioids,0.4
+Irwin,2016,Percent of Deaths by Cause-All Opioids,*
+Jackson,2016,Percent of Deaths by Cause-All Opioids,1.2
+Jasper,2016,Percent of Deaths by Cause-All Opioids,*
+Jefferson,2016,Percent of Deaths by Cause-All Opioids,0.0
+Jenkins,2016,Percent of Deaths by Cause-All Opioids,*
+Johnson,2016,Percent of Deaths by Cause-All Opioids,0.0
+Jones,2016,Percent of Deaths by Cause-All Opioids,*
+Lamar,2016,Percent of Deaths by Cause-All Opioids,*
+Lanier,2016,Percent of Deaths by Cause-All Opioids,0.0
+Laurens,2016,Percent of Deaths by Cause-All Opioids,*
+Lee,2016,Percent of Deaths by Cause-All Opioids,*
+Liberty,2016,Percent of Deaths by Cause-All Opioids,*
+Lincoln,2016,Percent of Deaths by Cause-All Opioids,*
+Long,2016,Percent of Deaths by Cause-All Opioids,*
+Lowndes,2016,Percent of Deaths by Cause-All Opioids,0.6
+Lumpkin,2016,Percent of Deaths by Cause-All Opioids,*
+McDuffie,2016,Percent of Deaths by Cause-All Opioids,0.0
+McIntosh,2016,Percent of Deaths by Cause-All Opioids,*
+Macon,2016,Percent of Deaths by Cause-All Opioids,0.0
+Madison,2016,Percent of Deaths by Cause-All Opioids,*
+Marion,2016,Percent of Deaths by Cause-All Opioids,*
+Meriwether,2016,Percent of Deaths by Cause-All Opioids,0.0
+Miller,2016,Percent of Deaths by Cause-All Opioids,0.0
+Mitchell,2016,Percent of Deaths by Cause-All Opioids,0.0
+Monroe,2016,Percent of Deaths by Cause-All Opioids,*
+Montgomery,2016,Percent of Deaths by Cause-All Opioids,0.0
+Morgan,2016,Percent of Deaths by Cause-All Opioids,0.0
+Murray,2016,Percent of Deaths by Cause-All Opioids,*
+Muscogee,2016,Percent of Deaths by Cause-All Opioids,0.4
+Newton,2016,Percent of Deaths by Cause-All Opioids,0.9
+Oconee,2016,Percent of Deaths by Cause-All Opioids,0.0
+Oglethorpe,2016,Percent of Deaths by Cause-All Opioids,0.0
+Paulding,2016,Percent of Deaths by Cause-All Opioids,2.6
+Peach,2016,Percent of Deaths by Cause-All Opioids,*
+Pickens,2016,Percent of Deaths by Cause-All Opioids,*
+Pierce,2016,Percent of Deaths by Cause-All Opioids,*
+Pike,2016,Percent of Deaths by Cause-All Opioids,*
+Polk,2016,Percent of Deaths by Cause-All Opioids,*
+Pulaski,2016,Percent of Deaths by Cause-All Opioids,0.0
+Putnam,2016,Percent of Deaths by Cause-All Opioids,*
+Quitman,2016,Percent of Deaths by Cause-All Opioids,0.0
+Rabun,2016,Percent of Deaths by Cause-All Opioids,*
+Randolph,2016,Percent of Deaths by Cause-All Opioids,0.0
+Richmond,2016,Percent of Deaths by Cause-All Opioids,1.4
+Rockdale,2016,Percent of Deaths by Cause-All Opioids,1.1
+Schley,2016,Percent of Deaths by Cause-All Opioids,0.0
+Screven,2016,Percent of Deaths by Cause-All Opioids,0.0
+Seminole,2016,Percent of Deaths by Cause-All Opioids,0.0
+Spalding,2016,Percent of Deaths by Cause-All Opioids,0.9
+Stephens,2016,Percent of Deaths by Cause-All Opioids,1.4
+Stewart,2016,Percent of Deaths by Cause-All Opioids,*
+Sumter,2016,Percent of Deaths by Cause-All Opioids,0.0
+Talbot,2016,Percent of Deaths by Cause-All Opioids,0.0
+Taliaferro,2016,Percent of Deaths by Cause-All Opioids,0.0
+Tattnall,2016,Percent of Deaths by Cause-All Opioids,*
+Taylor,2016,Percent of Deaths by Cause-All Opioids,0.0
+Telfair,2016,Percent of Deaths by Cause-All Opioids,*
+Terrell,2016,Percent of Deaths by Cause-All Opioids,0.0
+Thomas,2016,Percent of Deaths by Cause-All Opioids,*
+Tift,2016,Percent of Deaths by Cause-All Opioids,*
+Toombs,2016,Percent of Deaths by Cause-All Opioids,*
+Towns,2016,Percent of Deaths by Cause-All Opioids,*
+Treutlen,2016,Percent of Deaths by Cause-All Opioids,0.0
+Troup,2016,Percent of Deaths by Cause-All Opioids,0.8
+Turner,2016,Percent of Deaths by Cause-All Opioids,*
+Twiggs,2016,Percent of Deaths by Cause-All Opioids,*
+Union,2016,Percent of Deaths by Cause-All Opioids,*
+Upson,2016,Percent of Deaths by Cause-All Opioids,*
+Walker,2016,Percent of Deaths by Cause-All Opioids,1.0
+Walton,2016,Percent of Deaths by Cause-All Opioids,1.3
+Ware,2016,Percent of Deaths by Cause-All Opioids,*
+Warren,2016,Percent of Deaths by Cause-All Opioids,0.0
+Washington,2016,Percent of Deaths by Cause-All Opioids,*
+Wayne,2016,Percent of Deaths by Cause-All Opioids,1.4
+Webster,2016,Percent of Deaths by Cause-All Opioids,*
+Wheeler,2016,Percent of Deaths by Cause-All Opioids,0.0
+White,2016,Percent of Deaths by Cause-All Opioids,1.9
+Whitfield,2016,Percent of Deaths by Cause-All Opioids,0.7
+Wilcox,2016,Percent of Deaths by Cause-All Opioids,*
+Wilkes,2016,Percent of Deaths by Cause-All Opioids,0.0
+Wilkinson,2016,Percent of Deaths by Cause-All Opioids,0.0
+Worth,2016,Percent of Deaths by Cause-All Opioids,*
+Appling,2016,Death Rate-All Opioids,*
+Atkinson,2016,Death Rate-All Opioids,*
+Bacon,2016,Death Rate-All Opioids,0.0
+Baker,2016,Death Rate-All Opioids,0.0
+Baldwin,2016,Death Rate-All Opioids,0.0
+Banks,2016,Death Rate-All Opioids,*
+Barrow,2016,Death Rate-All Opioids,13.0
+Bartow,2016,Death Rate-All Opioids,13.5
+Berrien,2016,Death Rate-All Opioids,0.0
+Bibb,2016,Death Rate-All Opioids,6.5
+Bleckley,2016,Death Rate-All Opioids,0.0
+Brantley,2016,Death Rate-All Opioids,27.2
+Brooks,2016,Death Rate-All Opioids,0.0
+Bryan,2016,Death Rate-All Opioids,0.0
+Bulloch,2016,Death Rate-All Opioids,*
+Burke,2016,Death Rate-All Opioids,*
+Butts,2016,Death Rate-All Opioids,*
+Calhoun,2016,Death Rate-All Opioids,*
+Camden,2016,Death Rate-All Opioids,*
+Candler,2016,Death Rate-All Opioids,*
+Carroll,2016,Death Rate-All Opioids,16.3
+Catoosa,2016,Death Rate-All Opioids,15.1
+Charlton,2016,Death Rate-All Opioids,*
+Chatham,2016,Death Rate-All Opioids,9.0
+Chattahoochee,2016,Death Rate-All Opioids,0.0
+Chattooga,2016,Death Rate-All Opioids,*
+Cherokee,2016,Death Rate-All Opioids,14.1
+Clarke,2016,Death Rate-All Opioids,9.6
+Clay,2016,Death Rate-All Opioids,*
+Clayton,2016,Death Rate-All Opioids,6.1
+Clinch,2016,Death Rate-All Opioids,0.0
+Cobb,2016,Death Rate-All Opioids,12.7
+Coffee,2016,Death Rate-All Opioids,13.9
+Colquitt,2016,Death Rate-All Opioids,*
+Columbia,2016,Death Rate-All Opioids,10.9
+Cook,2016,Death Rate-All Opioids,0.0
+Coweta,2016,Death Rate-All Opioids,10.7
+Crawford,2016,Death Rate-All Opioids,*
+Crisp,2016,Death Rate-All Opioids,0.0
+Dade,2016,Death Rate-All Opioids,0.0
+Dawson,2016,Death Rate-All Opioids,*
+Decatur,2016,Death Rate-All Opioids,0.0
+DeKalb,2016,Death Rate-All Opioids,6.2
+Dodge,2016,Death Rate-All Opioids,*
+Dooly,2016,Death Rate-All Opioids,0.0
+Dougherty,2016,Death Rate-All Opioids,5.6
+Douglas,2016,Death Rate-All Opioids,16.2
+Early,2016,Death Rate-All Opioids,0.0
+Echols,2016,Death Rate-All Opioids,0.0
+Effingham,2016,Death Rate-All Opioids,*
+Elbert,2016,Death Rate-All Opioids,0.0
+Emanuel,2016,Death Rate-All Opioids,*
+Evans,2016,Death Rate-All Opioids,*
+Fannin,2016,Death Rate-All Opioids,24.1
+Fayette,2016,Death Rate-All Opioids,*
+Floyd,2016,Death Rate-All Opioids,9.3
+Forsyth,2016,Death Rate-All Opioids,5.9
+Franklin,2016,Death Rate-All Opioids,*
+Fulton,2016,Death Rate-All Opioids,10.3
+Gilmer,2016,Death Rate-All Opioids,16.8
+Glascock,2016,Death Rate-All Opioids,0.0
+Glynn,2016,Death Rate-All Opioids,9.5
+Gordon,2016,Death Rate-All Opioids,12.3
+Grady,2016,Death Rate-All Opioids,0.0
+Greene,2016,Death Rate-All Opioids,*
+Gwinnett,2016,Death Rate-All Opioids,6.1
+Habersham,2016,Death Rate-All Opioids,*
+Hall,2016,Death Rate-All Opioids,6.6
+Hancock,2016,Death Rate-All Opioids,0.0
+Haralson,2016,Death Rate-All Opioids,27.5
+Harris,2016,Death Rate-All Opioids,14.9
+Hart,2016,Death Rate-All Opioids,*
+Heard,2016,Death Rate-All Opioids,*
+Henry,2016,Death Rate-All Opioids,11.7
+Houston,2016,Death Rate-All Opioids,3.3
+Irwin,2016,Death Rate-All Opioids,*
+Jackson,2016,Death Rate-All Opioids,10.8
+Jasper,2016,Death Rate-All Opioids,*
+Jefferson,2016,Death Rate-All Opioids,0.0
+Jenkins,2016,Death Rate-All Opioids,*
+Johnson,2016,Death Rate-All Opioids,0.0
+Jones,2016,Death Rate-All Opioids,*
+Lamar,2016,Death Rate-All Opioids,*
+Lanier,2016,Death Rate-All Opioids,0.0
+Laurens,2016,Death Rate-All Opioids,*
+Lee,2016,Death Rate-All Opioids,*
+Liberty,2016,Death Rate-All Opioids,*
+Lincoln,2016,Death Rate-All Opioids,*
+Long,2016,Death Rate-All Opioids,*
+Lowndes,2016,Death Rate-All Opioids,4.4
+Lumpkin,2016,Death Rate-All Opioids,*
+McDuffie,2016,Death Rate-All Opioids,0.0
+McIntosh,2016,Death Rate-All Opioids,*
+Macon,2016,Death Rate-All Opioids,0.0
+Madison,2016,Death Rate-All Opioids,*
+Marion,2016,Death Rate-All Opioids,*
+Meriwether,2016,Death Rate-All Opioids,0.0
+Miller,2016,Death Rate-All Opioids,0.0
+Mitchell,2016,Death Rate-All Opioids,0.0
+Monroe,2016,Death Rate-All Opioids,*
+Montgomery,2016,Death Rate-All Opioids,0.0
+Morgan,2016,Death Rate-All Opioids,0.0
+Murray,2016,Death Rate-All Opioids,*
+Muscogee,2016,Death Rate-All Opioids,4.1
+Newton,2016,Death Rate-All Opioids,6.5
+Oconee,2016,Death Rate-All Opioids,0.0
+Oglethorpe,2016,Death Rate-All Opioids,0.0
+Paulding,2016,Death Rate-All Opioids,15.4
+Peach,2016,Death Rate-All Opioids,*
+Pickens,2016,Death Rate-All Opioids,*
+Pierce,2016,Death Rate-All Opioids,*
+Pike,2016,Death Rate-All Opioids,*
+Polk,2016,Death Rate-All Opioids,*
+Pulaski,2016,Death Rate-All Opioids,0.0
+Putnam,2016,Death Rate-All Opioids,*
+Quitman,2016,Death Rate-All Opioids,0.0
+Rabun,2016,Death Rate-All Opioids,*
+Randolph,2016,Death Rate-All Opioids,0.0
+Richmond,2016,Death Rate-All Opioids,13.4
+Rockdale,2016,Death Rate-All Opioids,9.0
+Schley,2016,Death Rate-All Opioids,0.0
+Screven,2016,Death Rate-All Opioids,0.0
+Seminole,2016,Death Rate-All Opioids,0.0
+Spalding,2016,Death Rate-All Opioids,10.8
+Stephens,2016,Death Rate-All Opioids,19.4
+Stewart,2016,Death Rate-All Opioids,*
+Sumter,2016,Death Rate-All Opioids,0.0
+Talbot,2016,Death Rate-All Opioids,0.0
+Taliaferro,2016,Death Rate-All Opioids,0.0
+Tattnall,2016,Death Rate-All Opioids,*
+Taylor,2016,Death Rate-All Opioids,0.0
+Telfair,2016,Death Rate-All Opioids,*
+Terrell,2016,Death Rate-All Opioids,0.0
+Thomas,2016,Death Rate-All Opioids,*
+Tift,2016,Death Rate-All Opioids,*
+Toombs,2016,Death Rate-All Opioids,*
+Towns,2016,Death Rate-All Opioids,*
+Treutlen,2016,Death Rate-All Opioids,0.0
+Troup,2016,Death Rate-All Opioids,8.6
+Turner,2016,Death Rate-All Opioids,*
+Twiggs,2016,Death Rate-All Opioids,*
+Union,2016,Death Rate-All Opioids,*
+Upson,2016,Death Rate-All Opioids,*
+Walker,2016,Death Rate-All Opioids,13.3
+Walton,2016,Death Rate-All Opioids,12.2
+Ware,2016,Death Rate-All Opioids,*
+Warren,2016,Death Rate-All Opioids,0.0
+Washington,2016,Death Rate-All Opioids,*
+Wayne,2016,Death Rate-All Opioids,16.6
+Webster,2016,Death Rate-All Opioids,*
+Wheeler,2016,Death Rate-All Opioids,0.0
+White,2016,Death Rate-All Opioids,17.3
+Whitfield,2016,Death Rate-All Opioids,5.7
+Wilcox,2016,Death Rate-All Opioids,*
+Wilkes,2016,Death Rate-All Opioids,0.0
+Wilkinson,2016,Death Rate-All Opioids,0.0
+Worth,2016,Death Rate-All Opioids,*
+Appling,2020,Age-Adjusted Death Rate-All Opioids,*
+Atkinson,2020,Age-Adjusted Death Rate-All Opioids,*
+Bacon,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Baker,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Baldwin,2020,Age-Adjusted Death Rate-All Opioids,*
+Banks,2020,Age-Adjusted Death Rate-All Opioids,*
+Barrow,2020,Age-Adjusted Death Rate-All Opioids,13.8
+Bartow,2020,Age-Adjusted Death Rate-All Opioids,21.9
+Berrien,2020,Age-Adjusted Death Rate-All Opioids,*
+Bibb,2020,Age-Adjusted Death Rate-All Opioids,9.0
+Bleckley,2020,Age-Adjusted Death Rate-All Opioids,*
+Brantley,2020,Age-Adjusted Death Rate-All Opioids,*
+Brooks,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Bryan,2020,Age-Adjusted Death Rate-All Opioids,14.6
+Bulloch,2020,Age-Adjusted Death Rate-All Opioids,*
+Burke,2020,Age-Adjusted Death Rate-All Opioids,*
+Butts,2020,Age-Adjusted Death Rate-All Opioids,19.2
+Calhoun,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Camden,2020,Age-Adjusted Death Rate-All Opioids,15.9
+Candler,2020,Age-Adjusted Death Rate-All Opioids,*
+Carroll,2020,Age-Adjusted Death Rate-All Opioids,22.9
+Catoosa,2020,Age-Adjusted Death Rate-All Opioids,19.8
+Charlton,2020,Age-Adjusted Death Rate-All Opioids,*
+Chatham,2020,Age-Adjusted Death Rate-All Opioids,15.9
+Chattahoochee,2020,Age-Adjusted Death Rate-All Opioids,*
+Chattooga,2020,Age-Adjusted Death Rate-All Opioids,*
+Cherokee,2020,Age-Adjusted Death Rate-All Opioids,17.0
+Clarke,2020,Age-Adjusted Death Rate-All Opioids,10.2
+Clay,2020,Age-Adjusted Death Rate-All Opioids,*
+Clayton,2020,Age-Adjusted Death Rate-All Opioids,8.8
+Clinch,2020,Age-Adjusted Death Rate-All Opioids,*
+Cobb,2020,Age-Adjusted Death Rate-All Opioids,14.3
+Coffee,2020,Age-Adjusted Death Rate-All Opioids,*
+Colquitt,2020,Age-Adjusted Death Rate-All Opioids,15.9
+Columbia,2020,Age-Adjusted Death Rate-All Opioids,14.2
+Cook,2020,Age-Adjusted Death Rate-All Opioids,*
+Coweta,2020,Age-Adjusted Death Rate-All Opioids,7.4
+Crawford,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Crisp,2020,Age-Adjusted Death Rate-All Opioids,*
+Dade,2020,Age-Adjusted Death Rate-All Opioids,*
+Dawson,2020,Age-Adjusted Death Rate-All Opioids,*
+Decatur,2020,Age-Adjusted Death Rate-All Opioids,*
+DeKalb,2020,Age-Adjusted Death Rate-All Opioids,10.7
+Dodge,2020,Age-Adjusted Death Rate-All Opioids,*
+Dooly,2020,Age-Adjusted Death Rate-All Opioids,*
+Dougherty,2020,Age-Adjusted Death Rate-All Opioids,*
+Douglas,2020,Age-Adjusted Death Rate-All Opioids,16.0
+Early,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Echols,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Effingham,2020,Age-Adjusted Death Rate-All Opioids,14.3
+Elbert,2020,Age-Adjusted Death Rate-All Opioids,31.9
+Emanuel,2020,Age-Adjusted Death Rate-All Opioids,*
+Evans,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Fannin,2020,Age-Adjusted Death Rate-All Opioids,*
+Fayette,2020,Age-Adjusted Death Rate-All Opioids,8.4
+Floyd,2020,Age-Adjusted Death Rate-All Opioids,16.4
+Forsyth,2020,Age-Adjusted Death Rate-All Opioids,8.0
+Franklin,2020,Age-Adjusted Death Rate-All Opioids,*
+Fulton,2020,Age-Adjusted Death Rate-All Opioids,11.3
+Gilmer,2020,Age-Adjusted Death Rate-All Opioids,34.0
+Glascock,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Glynn,2020,Age-Adjusted Death Rate-All Opioids,22.0
+Gordon,2020,Age-Adjusted Death Rate-All Opioids,*
+Grady,2020,Age-Adjusted Death Rate-All Opioids,*
+Greene,2020,Age-Adjusted Death Rate-All Opioids,*
+Gwinnett,2020,Age-Adjusted Death Rate-All Opioids,10.3
+Habersham,2020,Age-Adjusted Death Rate-All Opioids,29.3
+Hall,2020,Age-Adjusted Death Rate-All Opioids,13.3
+Hancock,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Haralson,2020,Age-Adjusted Death Rate-All Opioids,25.5
+Harris,2020,Age-Adjusted Death Rate-All Opioids,18.4
+Hart,2020,Age-Adjusted Death Rate-All Opioids,*
+Heard,2020,Age-Adjusted Death Rate-All Opioids,*
+Henry,2020,Age-Adjusted Death Rate-All Opioids,10.0
+Houston,2020,Age-Adjusted Death Rate-All Opioids,9.9
+Irwin,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Jackson,2020,Age-Adjusted Death Rate-All Opioids,12.0
+Jasper,2020,Age-Adjusted Death Rate-All Opioids,*
+Jefferson,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Jenkins,2020,Age-Adjusted Death Rate-All Opioids,*
+Johnson,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Jones,2020,Age-Adjusted Death Rate-All Opioids,*
+Lamar,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Lanier,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Laurens,2020,Age-Adjusted Death Rate-All Opioids,*
+Lee,2020,Age-Adjusted Death Rate-All Opioids,*
+Liberty,2020,Age-Adjusted Death Rate-All Opioids,7.8
+Lincoln,2020,Age-Adjusted Death Rate-All Opioids,*
+Long,2020,Age-Adjusted Death Rate-All Opioids,*
+Lowndes,2020,Age-Adjusted Death Rate-All Opioids,5.4
+Lumpkin,2020,Age-Adjusted Death Rate-All Opioids,28.5
+McDuffie,2020,Age-Adjusted Death Rate-All Opioids,*
+McIntosh,2020,Age-Adjusted Death Rate-All Opioids,*
+Macon,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Madison,2020,Age-Adjusted Death Rate-All Opioids,17.5
+Marion,2020,Age-Adjusted Death Rate-All Opioids,*
+Meriwether,2020,Age-Adjusted Death Rate-All Opioids,*
+Miller,2020,Age-Adjusted Death Rate-All Opioids,*
+Mitchell,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Monroe,2020,Age-Adjusted Death Rate-All Opioids,*
+Montgomery,2020,Age-Adjusted Death Rate-All Opioids,*
+Morgan,2020,Age-Adjusted Death Rate-All Opioids,*
+Murray,2020,Age-Adjusted Death Rate-All Opioids,*
+Muscogee,2020,Age-Adjusted Death Rate-All Opioids,5.6
+Newton,2020,Age-Adjusted Death Rate-All Opioids,11.7
+Oconee,2020,Age-Adjusted Death Rate-All Opioids,12.0
+Oglethorpe,2020,Age-Adjusted Death Rate-All Opioids,*
+Paulding,2020,Age-Adjusted Death Rate-All Opioids,17.5
+Peach,2020,Age-Adjusted Death Rate-All Opioids,*
+Pickens,2020,Age-Adjusted Death Rate-All Opioids,19.5
+Pierce,2020,Age-Adjusted Death Rate-All Opioids,31.1
+Pike,2020,Age-Adjusted Death Rate-All Opioids,*
+Polk,2020,Age-Adjusted Death Rate-All Opioids,18.5
+Pulaski,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Putnam,2020,Age-Adjusted Death Rate-All Opioids,*
+Quitman,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Rabun,2020,Age-Adjusted Death Rate-All Opioids,27.2
+Randolph,2020,Age-Adjusted Death Rate-All Opioids,*
+Richmond,2020,Age-Adjusted Death Rate-All Opioids,23.0
+Rockdale,2020,Age-Adjusted Death Rate-All Opioids,15.6
+Schley,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Screven,2020,Age-Adjusted Death Rate-All Opioids,*
+Seminole,2020,Age-Adjusted Death Rate-All Opioids,*
+Spalding,2020,Age-Adjusted Death Rate-All Opioids,15.3
+Stephens,2020,Age-Adjusted Death Rate-All Opioids,*
+Stewart,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Sumter,2020,Age-Adjusted Death Rate-All Opioids,*
+Talbot,2020,Age-Adjusted Death Rate-All Opioids,*
+Taliaferro,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Tattnall,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Taylor,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Telfair,2020,Age-Adjusted Death Rate-All Opioids,*
+Terrell,2020,Age-Adjusted Death Rate-All Opioids,*
+Thomas,2020,Age-Adjusted Death Rate-All Opioids,*
+Tift,2020,Age-Adjusted Death Rate-All Opioids,*
+Toombs,2020,Age-Adjusted Death Rate-All Opioids,*
+Towns,2020,Age-Adjusted Death Rate-All Opioids,*
+Treutlen,2020,Age-Adjusted Death Rate-All Opioids,*
+Troup,2020,Age-Adjusted Death Rate-All Opioids,14.8
+Turner,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Twiggs,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Union,2020,Age-Adjusted Death Rate-All Opioids,45.8
+Upson,2020,Age-Adjusted Death Rate-All Opioids,*
+Walker,2020,Age-Adjusted Death Rate-All Opioids,28.1
+Walton,2020,Age-Adjusted Death Rate-All Opioids,15.7
+Ware,2020,Age-Adjusted Death Rate-All Opioids,27.1
+Warren,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Washington,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Wayne,2020,Age-Adjusted Death Rate-All Opioids,22.5
+Webster,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Wheeler,2020,Age-Adjusted Death Rate-All Opioids,0.0
+White,2020,Age-Adjusted Death Rate-All Opioids,21.2
+Whitfield,2020,Age-Adjusted Death Rate-All Opioids,9.9
+Wilcox,2020,Age-Adjusted Death Rate-All Opioids,0.0
+Wilkes,2020,Age-Adjusted Death Rate-All Opioids,*
+Wilkinson,2020,Age-Adjusted Death Rate-All Opioids,*
+Worth,2020,Age-Adjusted Death Rate-All Opioids,*
+Appling,2020,Death Rate-All Opioids,*
+Atkinson,2020,Death Rate-All Opioids,*
+Bacon,2020,Death Rate-All Opioids,0.0
+Baker,2020,Death Rate-All Opioids,0.0
+Baldwin,2020,Death Rate-All Opioids,*
+Banks,2020,Death Rate-All Opioids,*
+Barrow,2020,Death Rate-All Opioids,12.9
+Bartow,2020,Death Rate-All Opioids,21.9
+Berrien,2020,Death Rate-All Opioids,*
+Bibb,2020,Death Rate-All Opioids,7.2
+Bleckley,2020,Death Rate-All Opioids,*
+Brantley,2020,Death Rate-All Opioids,*
+Brooks,2020,Death Rate-All Opioids,0.0
+Bryan,2020,Death Rate-All Opioids,14.7
+Bulloch,2020,Death Rate-All Opioids,*
+Burke,2020,Death Rate-All Opioids,*
+Butts,2020,Death Rate-All Opioids,19.7
+Calhoun,2020,Death Rate-All Opioids,0.0
+Camden,2020,Death Rate-All Opioids,14.4
+Candler,2020,Death Rate-All Opioids,*
+Carroll,2020,Death Rate-All Opioids,21.4
+Catoosa,2020,Death Rate-All Opioids,17.6
+Charlton,2020,Death Rate-All Opioids,*
+Chatham,2020,Death Rate-All Opioids,15.5
+Chattahoochee,2020,Death Rate-All Opioids,*
+Chattooga,2020,Death Rate-All Opioids,*
+Cherokee,2020,Death Rate-All Opioids,17.0
+Clarke,2020,Death Rate-All Opioids,8.6
+Clay,2020,Death Rate-All Opioids,*
+Clayton,2020,Death Rate-All Opioids,8.5
+Clinch,2020,Death Rate-All Opioids,*
+Cobb,2020,Death Rate-All Opioids,15.1
+Coffee,2020,Death Rate-All Opioids,*
+Colquitt,2020,Death Rate-All Opioids,15.4
+Columbia,2020,Death Rate-All Opioids,13.7
+Cook,2020,Death Rate-All Opioids,*
+Coweta,2020,Death Rate-All Opioids,7.3
+Crawford,2020,Death Rate-All Opioids,0.0
+Crisp,2020,Death Rate-All Opioids,*
+Dade,2020,Death Rate-All Opioids,*
+Dawson,2020,Death Rate-All Opioids,*
+Decatur,2020,Death Rate-All Opioids,*
+DeKalb,2020,Death Rate-All Opioids,11.0
+Dodge,2020,Death Rate-All Opioids,*
+Dooly,2020,Death Rate-All Opioids,*
+Dougherty,2020,Death Rate-All Opioids,*
+Douglas,2020,Death Rate-All Opioids,16.9
+Early,2020,Death Rate-All Opioids,0.0
+Echols,2020,Death Rate-All Opioids,0.0
+Effingham,2020,Death Rate-All Opioids,13.7
+Elbert,2020,Death Rate-All Opioids,25.9
+Emanuel,2020,Death Rate-All Opioids,*
+Evans,2020,Death Rate-All Opioids,0.0
+Fannin,2020,Death Rate-All Opioids,*
+Fayette,2020,Death Rate-All Opioids,6.9
+Floyd,2020,Death Rate-All Opioids,16.2
+Forsyth,2020,Death Rate-All Opioids,8.0
+Franklin,2020,Death Rate-All Opioids,*
+Fulton,2020,Death Rate-All Opioids,12.1
+Gilmer,2020,Death Rate-All Opioids,25.0
+Glascock,2020,Death Rate-All Opioids,0.0
+Glynn,2020,Death Rate-All Opioids,19.9
+Gordon,2020,Death Rate-All Opioids,*
+Grady,2020,Death Rate-All Opioids,*
+Greene,2020,Death Rate-All Opioids,*
+Gwinnett,2020,Death Rate-All Opioids,10.1
+Habersham,2020,Death Rate-All Opioids,23.9
+Hall,2020,Death Rate-All Opioids,12.6
+Hancock,2020,Death Rate-All Opioids,0.0
+Haralson,2020,Death Rate-All Opioids,26.3
+Harris,2020,Death Rate-All Opioids,16.6
+Hart,2020,Death Rate-All Opioids,*
+Heard,2020,Death Rate-All Opioids,*
+Henry,2020,Death Rate-All Opioids,10.5
+Houston,2020,Death Rate-All Opioids,10.0
+Irwin,2020,Death Rate-All Opioids,0.0
+Jackson,2020,Death Rate-All Opioids,11.8
+Jasper,2020,Death Rate-All Opioids,*
+Jefferson,2020,Death Rate-All Opioids,0.0
+Jenkins,2020,Death Rate-All Opioids,*
+Johnson,2020,Death Rate-All Opioids,0.0
+Jones,2020,Death Rate-All Opioids,*
+Lamar,2020,Death Rate-All Opioids,0.0
+Lanier,2020,Death Rate-All Opioids,0.0
+Laurens,2020,Death Rate-All Opioids,*
+Lee,2020,Death Rate-All Opioids,*
+Liberty,2020,Death Rate-All Opioids,7.9
+Lincoln,2020,Death Rate-All Opioids,*
+Long,2020,Death Rate-All Opioids,*
+Lowndes,2020,Death Rate-All Opioids,4.2
+Lumpkin,2020,Death Rate-All Opioids,23.4
+McDuffie,2020,Death Rate-All Opioids,*
+McIntosh,2020,Death Rate-All Opioids,*
+Macon,2020,Death Rate-All Opioids,0.0
+Madison,2020,Death Rate-All Opioids,16.4
+Marion,2020,Death Rate-All Opioids,*
+Meriwether,2020,Death Rate-All Opioids,*
+Miller,2020,Death Rate-All Opioids,*
+Mitchell,2020,Death Rate-All Opioids,0.0
+Monroe,2020,Death Rate-All Opioids,*
+Montgomery,2020,Death Rate-All Opioids,*
+Morgan,2020,Death Rate-All Opioids,*
+Murray,2020,Death Rate-All Opioids,*
+Muscogee,2020,Death Rate-All Opioids,5.6
+Newton,2020,Death Rate-All Opioids,11.5
+Oconee,2020,Death Rate-All Opioids,12.2
+Oglethorpe,2020,Death Rate-All Opioids,*
+Paulding,2020,Death Rate-All Opioids,17.3
+Peach,2020,Death Rate-All Opioids,*
+Pickens,2020,Death Rate-All Opioids,15.1
+Pierce,2020,Death Rate-All Opioids,25.6
+Pike,2020,Death Rate-All Opioids,*
+Polk,2020,Death Rate-All Opioids,16.3
+Pulaski,2020,Death Rate-All Opioids,0.0
+Putnam,2020,Death Rate-All Opioids,*
+Quitman,2020,Death Rate-All Opioids,0.0
+Rabun,2020,Death Rate-All Opioids,28.9
+Randolph,2020,Death Rate-All Opioids,*
+Richmond,2020,Death Rate-All Opioids,21.8
+Rockdale,2020,Death Rate-All Opioids,15.4
+Schley,2020,Death Rate-All Opioids,0.0
+Screven,2020,Death Rate-All Opioids,*
+Seminole,2020,Death Rate-All Opioids,*
+Spalding,2020,Death Rate-All Opioids,13.4
+Stephens,2020,Death Rate-All Opioids,*
+Stewart,2020,Death Rate-All Opioids,0.0
+Sumter,2020,Death Rate-All Opioids,*
+Talbot,2020,Death Rate-All Opioids,*
+Taliaferro,2020,Death Rate-All Opioids,0.0
+Tattnall,2020,Death Rate-All Opioids,0.0
+Taylor,2020,Death Rate-All Opioids,0.0
+Telfair,2020,Death Rate-All Opioids,*
+Terrell,2020,Death Rate-All Opioids,*
+Thomas,2020,Death Rate-All Opioids,*
+Tift,2020,Death Rate-All Opioids,*
+Toombs,2020,Death Rate-All Opioids,*
+Towns,2020,Death Rate-All Opioids,*
+Treutlen,2020,Death Rate-All Opioids,*
+Troup,2020,Death Rate-All Opioids,14.2
+Turner,2020,Death Rate-All Opioids,0.0
+Twiggs,2020,Death Rate-All Opioids,0.0
+Union,2020,Death Rate-All Opioids,27.6
+Upson,2020,Death Rate-All Opioids,*
+Walker,2020,Death Rate-All Opioids,25.7
+Walton,2020,Death Rate-All Opioids,15.5
+Ware,2020,Death Rate-All Opioids,25.1
+Warren,2020,Death Rate-All Opioids,0.0
+Washington,2020,Death Rate-All Opioids,0.0
+Wayne,2020,Death Rate-All Opioids,20.0
+Webster,2020,Death Rate-All Opioids,0.0
+Wheeler,2020,Death Rate-All Opioids,0.0
+White,2020,Death Rate-All Opioids,19.3
+Whitfield,2020,Death Rate-All Opioids,9.6
+Wilcox,2020,Death Rate-All Opioids,0.0
+Wilkes,2020,Death Rate-All Opioids,*
+Wilkinson,2020,Death Rate-All Opioids,*
+Worth,2020,Death Rate-All Opioids,*
